@@ -1,0 +1,6 @@
+service oneplus.engineer-1-0 /vendor/bin/hw/vendor.oneplus.engnative.engineer@1.0-service
+    class main
+    user system
+    group system
+    interface vendor.oneplus.engnative.engineer@1.0::IEngineer default
+

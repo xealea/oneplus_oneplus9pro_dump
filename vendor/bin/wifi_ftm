@@ -1,0 +1,35 @@
+#!/vendor/bin/sh
+board_name=$(getprop ro.board.platform)
+if [[ $board_name = "kona" || $board_name = "lahaina" ]];then
+    insmod /vendor/lib/modules/qca_cld3_qca6390.ko con_mode_ftm=5
+    insmod /vendor/lib/modules/qca_cld3_wlan.ko con_mode_ftm=5
+    sleep 5
+    /vendor/bin/myftm -J -I 0 --nss 1 --rateBw 8 -r 26 -f 5180 -a 1 -X 00:03:7F:44:55:69 -Y 00:03:7F:44:55:68 -N 00:03:7F:44:55:71 -x 1
+    sleep 2
+    /vendor/bin/myftm -J -I 0 --nss 1 --rateBw 8 -r 26 -f 5180 -a 1 -X 00:03:7F:44:55:69 -Y 00:03:7F:44:55:68 -N 00:03:7F:44:55:71 -x 0
+else
+    insmod /vendor/lib/modules/qca_cld3_wlan.ko
+    insmod /vendor/lib/modules-aging/qca_cld3_wlan.ko
+    sleep 1
+    while true
+    do
+    if [ -f /sys/module/wlan/parameters/con_mode ]; then
+        while true
+        do
+            echo 5 > /sys/module/wlan/parameters/con_mode
+            keyValue=$(cat /sys/module/wlan/parameters/con_mode)
+            if [ "$keyValue" -eq "5" ]; then
+                break
+            else
+                sleep 1
+            fi
+        done
+        break
+    else
+        sleep 1
+    fi
+    done
+fi
+
+/vendor/bin/ftmdaemon -n
+

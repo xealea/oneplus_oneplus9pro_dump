@@ -1,0 +1,3849 @@
+{
+  "ieee_oui":
+  [
+    {
+      "addr":"90004E",
+      "manu":"Hon Hai Precision Ind. Co.,Ltd."
+    },
+    {
+      "addr":"9000DB",
+      "manu":"Samsung Electronics Co.,Ltd"
+    },
+    {
+      "addr":"90013B",
+      "manu":"Sagemcom Broadband SAS"
+    },
+    {
+      "addr":"900218",
+      "manu":"BSkyB Ltd"
+    },
+    {
+      "addr":"90028A",
+      "manu":"Shenzhen Shidean Legrand Electronic Products Co.,Ltd"
+    },
+    {
+      "addr":"9002A9",
+      "manu":"Zhejiang Dahua Technology Co., Ltd."
+    },
+    {
+      "addr":"900325",
+      "manu":"HUAWEI TECHNOLOGIES CO.,LTD"
+    },
+    {
+      "addr":"900372",
+      "manu":"Longnan Junya Digital Technology Co. Ltd."
+    },
+    {
+      "addr":"9003B7",
+      "manu":"PARROT SA"
+    },
+    {
+      "addr":"900628",
+      "manu":"Samsung Electronics Co.,Ltd"
+    },
+    {
+      "addr":"900917",
+      "manu":"Far-sighted mobile"
+    },
+    {
+      "addr":"900A1A",
+      "manu":"Taicang T&W Electronics"
+    },
+    {
+      "addr":"900A39",
+      "manu":"Wiio, Inc."
+    },
+    {
+      "addr":"900A3A",
+      "manu":"PSG Plastic Service GmbH"
+    },
+    {
+      "addr":"900A84",
+      "manu":"Mellanox Technologies, Inc."
+    },
+    {
+      "addr":"900BC1",
+      "manu":"Sprocomm Technologies CO.,Ltd"
+    },
+    {
+      "addr":"900CB4",
+      "manu":"Alinket Electronic Technology Co., Ltd"
+    },
+    {
+      "addr":"900CC8",
+      "manu":"Google, Inc."
+    },
+    {
+      "addr":"900D66",
+      "manu":"Digimore Electronics Co., Ltd"
+    },
+    {
+      "addr":"900DCB",
+      "manu":"ARRIS Group, Inc."
+    },
+    {
+      "addr":"900E83",
+      "manu":"Monico Monitoring, Inc."
+    },
+    {
+      "addr":"900EB3",
+      "manu":"Shenzhen Amediatech Technology Co., Ltd."
+    },
+    {
+      "addr":"901234",
+      "manu":"Shenzhen YOUHUA Technology Co., Ltd"
+    },
+    {
+      "addr":"9013DA",
+      "manu":"Athom B.V."
+    },
+    {
+      "addr":"9016BA",
+      "manu":"HUAWEI TECHNOLOGIES CO.,LTD"
+    },
+    {
+      "addr":"901711",
+      "manu":"Hagenuk Marinekommunikation GmbH"
+    },
+    {
+      "addr":"90173F",
+      "manu":"HUAWEI TECHNOLOGIES CO.,LTD"
+    },
+    {
+      "addr":"90179B",
+      "manu":"Nanomegas"
+    },
+    {
+      "addr":"9017AC",
+      "manu":"HUAWEI TECHNOLOGIES CO.,LTD"
+    },
+    {
+      "addr":"9017C8",
+      "manu":"HUAWEI TECHNOLOGIES CO.,LTD"
+    },
+    {
+      "addr":"90185E",
+      "manu":"Apex Tool Group GmbH & Co OHG"
+    },
+    {
+      "addr":"90187C",
+      "manu":"SAMSUNG ELECTRO MECHANICS CO., LTD."
+    },
+    {
+      "addr":"9018AE",
+      "manu":"Shanghai Meridian Technologies, Co. Ltd."
+    },
+    {
+      "addr":"901900",
+      "manu":"SCS SA"
+    },
+    {
+      "addr":"901A4F",
+      "manu":"EM Microelectronic"
+    },
+    {
+      "addr":"901ACA",
+      "manu":"ARRIS Group, Inc."
+    },
+    {
+      "addr":"901B0E",
+      "manu":"Fujitsu Technology Solutions GmbH"
+    },
+    {
+      "addr":"901D27",
+      "manu":"zte corporation"
+    },
+    {
+      "addr":"901EDD",
+      "manu":"GREAT COMPUTER CORPORATION"
+    },
+    {
+      "addr":"90203A",
+      "manu":"BYD Precision Manufacture Co.,Ltd"
+    },
+    {
+      "addr":"902083",
+      "manu":"General Engine Management Systems Ltd."
+    },
+    {
+      "addr":"9020C2",
+      "manu":"Aruba, a Hewlett Packard Enterprise Company"
+    },
+    {
+      "addr":"902106",
+      "manu":"BSkyB Ltd"
+    },
+    {
+      "addr":"902155",
+      "manu":"HTC Corporation"
+    },
+    {
+      "addr":"902181",
+      "manu":"Shanghai Huaqin Telecom Technology Co.,Ltd"
+    },
+    {
+      "addr":"9023EC",
+      "manu":"Availink, Inc."
+    },
+    {
+      "addr":"90272B",
+      "manu":"Algorab S.r.l."
+    },
+    {
+      "addr":"9027E4",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"902B34",
+      "manu":"GIGA-BYTE TECHNOLOGY CO.,LTD."
+    },
+    {
+      "addr":"902BD2",
+      "manu":"HUAWEI TECHNOLOGIES CO.,LTD"
+    },
+    {
+      "addr":"902CC7",
+      "manu":"C-MAX Asia Limited"
+    },
+    {
+      "addr":"902E1C",
+      "manu":"Intel Corporate"
+    },
+    {
+      "addr":"902E87",
+      "manu":"LabJack"
+    },
+    {
+      "addr":"9031CD",
+      "manu":"Onyx Healthcare Inc."
+    },
+    {
+      "addr":"90324B",
+      "manu":"Hon Hai Precision Ind. Co.,Ltd."
+    },
+    {
+      "addr":"90342B",
+      "manu":"Gatekeeper Systems, Inc."
+    },
+    {
+      "addr":"9034FC",
+      "manu":"Hon Hai Precision Ind. Co.,Ltd."
+    },
+    {
+      "addr":"90356E",
+      "manu":"Vodafone Omnitel N.V."
+    },
+    {
+      "addr":"903809",
+      "manu":"Ericsson AB"
+    },
+    {
+      "addr":"9038DF",
+      "manu":"Changzhou Tiannengbo System Co. Ltd."
+    },
+    {
+      "addr":"903A72",
+      "manu":"Ruckus Wireless"
+    },
+    {
+      "addr":"903AA0",
+      "manu":"Nokia"
+    },
+    {
+      "addr":"903AE6",
+      "manu":"PARROT SA"
+    },
+    {
+      "addr":"903C92",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"903CAE",
+      "manu":"Yunnan KSEC Digital Technology Co.,Ltd."
+    },
+    {
+      "addr":"903D5A",
+      "manu":"Shenzhen Wision Technology Holding Limited"
+    },
+    {
+      "addr":"903D68",
+      "manu":"G-Printec, Inc."
+    },
+    {
+      "addr":"903D6B",
+      "manu":"Zicon Technology Corp."
+    },
+    {
+      "addr":"903DBD",
+      "manu":"SECURE METERS LIMITED"
+    },
+    {
+      "addr":"903EAB",
+      "manu":"ARRIS Group, Inc."
+    },
+    {
+      "addr":"903FEA",
+      "manu":"HUAWEI TECHNOLOGIES CO.,LTD"
+    },
+    {
+      "addr":"9043E2",
+      "manu":"Cornami, Inc"
+    },
+    {
+      "addr":"904506",
+      "manu":"Tokyo Boeki Medisys Inc."
+    },
+    {
+      "addr":"9046A2",
+      "manu":"Tedipay UK Ltd"
+    },
+    {
+      "addr":"9046B7",
+      "manu":"Vadaro Pte Ltd"
+    },
+    {
+      "addr":"904716",
+      "manu":"RORZE CORPORATION"
+    },
+    {
+      "addr":"90473C",
+      "manu":"China Mobile Group Device Co.,Ltd."
+    },
+    {
+      "addr":"90489A",
+      "manu":"Hon Hai Precision Ind. Co.,Ltd."
+    },
+    {
+      "addr":"9049FA",
+      "manu":"Intel Corporate"
+    },
+    {
+      "addr":"904C81",
+      "manu":"Hewlett Packard Enterprise"
+    },
+    {
+      "addr":"904CE5",
+      "manu":"Hon Hai Precision Ind. Co.,Ltd."
+    },
+    {
+      "addr":"904D4A",
+      "manu":"Sagemcom Broadband SAS"
+    },
+    {
+      "addr":"904DC3",
+      "manu":"Flonidan A/S"
+    },
+    {
+      "addr":"904E2B",
+      "manu":"HUAWEI TECHNOLOGIES CO.,LTD"
+    },
+    {
+      "addr":"904E91",
+      "manu":"IEEE Registration Authority"
+    },
+    {
+      "addr":"90505A",
+      "manu":"unGlue, Inc"
+    },
+    {
+      "addr":"90507B",
+      "manu":"Advanced PANMOBIL Systems GmbH & Co. KG"
+    },
+    {
+      "addr":"9050CA",
+      "manu":"Hitron Technologies. Inc"
+    },
+    {
+      "addr":"90513F",
+      "manu":"Elettronica Santerno SpA"
+    },
+    {
+      "addr":"905446",
+      "manu":"TES ELECTRONIC SOLUTIONS"
+    },
+    {
+      "addr":"9055AE",
+      "manu":"Ericsson, EAB/RWI/K"
+    },
+    {
+      "addr":"9055DE",
+      "manu":"Fiberhome Telecommunication Technologies Co.,LTD"
+    },
+    {
+      "addr":"905682",
+      "manu":"Lenbrook Industries Limited"
+    },
+    {
+      "addr":"905692",
+      "manu":"Autotalks Ltd."
+    },
+    {
+      "addr":"9056FC",
+      "manu":"TECNO MOBILE LIMITED"
+    },
+    {
+      "addr":"905851",
+      "manu":"Technicolor CH USA Inc."
+    },
+    {
+      "addr":"9059AF",
+      "manu":"Texas Instruments"
+    },
+    {
+      "addr":"905C34",
+      "manu":"Sirius Electronic Systems Srl"
+    },
+    {
+      "addr":"905C44",
+      "manu":"Compal Broadband Networks, Inc."
+    },
+    {
+      "addr":"905D7C",
+      "manu":"New H3C Technologies Co., Ltd"
+    },
+    {
+      "addr":"905F2E",
+      "manu":"TCT mobile ltd"
+    },
+    {
+      "addr":"905F8D",
+      "manu":"modas GmbH"
+    },
+    {
+      "addr":"9060F1",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"90610C",
+      "manu":"Fida International (S) Pte Ltd"
+    },
+    {
+      "addr":"9061AE",
+      "manu":"Intel Corporate"
+    },
+    {
+      "addr":"90633B",
+      "manu":"Samsung Electronics Co.,Ltd"
+    },
+    {
+      "addr":"906717",
+      "manu":"Alphion India Private Limited"
+    },
+    {
+      "addr":"90671C",
+      "manu":"HUAWEI TECHNOLOGIES CO.,LTD"
+    },
+    {
+      "addr":"9067B5",
+      "manu":"Alcatel-Lucent"
+    },
+    {
+      "addr":"9067F3",
+      "manu":"Alcatel Lucent"
+    },
+    {
+      "addr":"9068C3",
+      "manu":"Motorola Mobility LLC, a Lenovo Company"
+    },
+    {
+      "addr":"906CAC",
+      "manu":"Fortinet, Inc."
+    },
+    {
+      "addr":"906D05",
+      "manu":"BXB ELECTRONICS CO., LTD"
+    },
+    {
+      "addr":"906DC8",
+      "manu":"DLG Automação Industrial Ltda"
+    },
+    {
+      "addr":"906EBB",
+      "manu":"Hon Hai Precision Ind. Co.,Ltd."
+    },
+    {
+      "addr":"906F18",
+      "manu":"Private"
+    },
+    {
+      "addr":"906FA9",
+      "manu":"NANJING PUTIAN TELECOMMUNICATIONS TECHNOLOGY CO.,LTD."
+    },
+    {
+      "addr":"907025",
+      "manu":"Garea Microsys Co.,Ltd."
+    },
+    {
+      "addr":"907065",
+      "manu":"Texas Instruments"
+    },
+    {
+      "addr":"907240",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"907282",
+      "manu":"Sagemcom Broadband SAS"
+    },
+    {
+      "addr":"90735A",
+      "manu":"Motorola Mobility LLC, a Lenovo Company"
+    },
+    {
+      "addr":"90749D",
+      "manu":"IRay Technology Co., Ltd."
+    },
+    {
+      "addr":"90769F",
+      "manu":"SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD."
+    },
+    {
+      "addr":"9077EE",
+      "manu":"Cisco Systems, Inc"
+    },
+    {
+      "addr":"907841",
+      "manu":"Intel Corporate"
+    },
+    {
+      "addr":"9078B2",
+      "manu":"Xiaomi Communications Co Ltd"
+    },
+    {
+      "addr":"907910",
+      "manu":"Integrated Device Technology (Malaysia) Sdn. Bhd."
+    },
+    {
+      "addr":"907990",
+      "manu":"Benchmark Electronics Romania SRL"
+    },
+    {
+      "addr":"907A0A",
+      "manu":"Gebr. Bode GmbH & Co KG"
+    },
+    {
+      "addr":"907A28",
+      "manu":"Beijing Morncloud Information And Technology Co. Ltd."
+    },
+    {
+      "addr":"907A58",
+      "manu":"Zegna-Daidong Limited"
+    },
+    {
+      "addr":"907AF1",
+      "manu":"Wally"
+    },
+    {
+      "addr":"907E30",
+      "manu":"LARS"
+    },
+    {
+      "addr":"907EBA",
+      "manu":"UTEK TECHNOLOGY (SHENZHEN) CO.,LTD"
+    },
+    {
+      "addr":"907F61",
+      "manu":"Chicony Electronics Co., Ltd."
+    },
+    {
+      "addr":"90812A",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"908260",
+      "manu":"IEEE 1904.1 Working Group"
+    },
+    {
+      "addr":"90834B",
+      "manu":"BEIJING YUNYI TIMES TECHNOLOGY CO,.LTD"
+    },
+    {
+      "addr":"90837A",
+      "manu":"General Electric Water & Process Technologies"
+    },
+    {
+      "addr":"90840D",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"90842B",
+      "manu":"LEGO System A/S"
+    },
+    {
+      "addr":"90848B",
+      "manu":"HDR10+ Technologies, LLC"
+    },
+    {
+      "addr":"908674",
+      "manu":"SICHUAN TIANYI COMHEART TELECOMCO., LTD"
+    },
+    {
+      "addr":"90869B",
+      "manu":"zte corporation"
+    },
+    {
+      "addr":"9088A2",
+      "manu":"IONICS TECHNOLOGY ME LTDA"
+    },
+    {
+      "addr":"90895F",
+      "manu":"WEIFANG GOERTEK ELECTRONICS CO.,LTD"
+    },
+    {
+      "addr":"908C09",
+      "manu":"Total Phase"
+    },
+    {
+      "addr":"908C43",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"908C44",
+      "manu":"H.K ZONGMU TECHNOLOGY CO., LTD."
+    },
+    {
+      "addr":"908C63",
+      "manu":"GZ Weedong Networks Technology Co. , Ltd"
+    },
+    {
+      "addr":"908D1D",
+      "manu":"GH Technologies"
+    },
+    {
+      "addr":"908D6C",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"908D78",
+      "manu":"D-Link International"
+    },
+    {
+      "addr":"908FCF",
+      "manu":"UNO System Co., Ltd"
+    },
+    {
+      "addr":"90903C",
+      "manu":"TRISON TECHNOLOGY CORPORATION"
+    },
+    {
+      "addr":"909060",
+      "manu":"RSI VIDEO TECHNOLOGIES"
+    },
+    {
+      "addr":"909164",
+      "manu":"ChongQing Lavid Technology Co., Ltd."
+    },
+    {
+      "addr":"9092B4",
+      "manu":"Diehl BGT Defence GmbH & Co. KG"
+    },
+    {
+      "addr":"90940A",
+      "manu":"Analog Devices, Inc"
+    },
+    {
+      "addr":"909497",
+      "manu":"HUAWEI TECHNOLOGIES CO.,LTD"
+    },
+    {
+      "addr":"9094E4",
+      "manu":"D-Link International"
+    },
+    {
+      "addr":"9097D5",
+      "manu":"Espressif Inc."
+    },
+    {
+      "addr":"9097F3",
+      "manu":"Samsung Electronics Co.,Ltd"
+    },
+    {
+      "addr":"909838",
+      "manu":"Huawei Device Co., Ltd."
+    },
+    {
+      "addr":"909864",
+      "manu":"Impex-Sat GmbH&amp;Co KG"
+    },
+    {
+      "addr":"909916",
+      "manu":"ELVEES NeoTek OJSC"
+    },
+    {
+      "addr":"909A77",
+      "manu":"Texas Instruments"
+    },
+    {
+      "addr":"909C4A",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"909D7D",
+      "manu":"ARRIS Group, Inc."
+    },
+    {
+      "addr":"909DE0",
+      "manu":"Newland Design + Assoc. Inc."
+    },
+    {
+      "addr":"909F33",
+      "manu":"EFM Networks"
+    },
+    {
+      "addr":"909F43",
+      "manu":"Accutron Instruments Inc."
+    },
+    {
+      "addr":"90A137",
+      "manu":"Beijing Splendidtel Communication Technology Co,. Ltd"
+    },
+    {
+      "addr":"90A210",
+      "manu":"United Telecoms Ltd"
+    },
+    {
+      "addr":"90A25B",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"90A2DA",
+      "manu":"GHEO SA"
+    },
+    {
+      "addr":"90A365",
+      "manu":"HMD Global Oy"
+    },
+    {
+      "addr":"90A46A",
+      "manu":"SISNET CO., LTD"
+    },
+    {
+      "addr":"90A4DE",
+      "manu":"Wistron Neweb Corporation"
+    },
+    {
+      "addr":"90A62F",
+      "manu":"NAVER"
+    },
+    {
+      "addr":"90A783",
+      "manu":"JSW PACIFIC CORPORATION"
+    },
+    {
+      "addr":"90A7C1",
+      "manu":"Pakedge Device and Software Inc."
+    },
+    {
+      "addr":"90AC3F",
+      "manu":"BrightSign LLC"
+    },
+    {
+      "addr":"90ADF7",
+      "manu":"vivo Mobile Communication Co., Ltd."
+    },
+    {
+      "addr":"90ADFC",
+      "manu":"Telechips, Inc."
+    },
+    {
+      "addr":"90AE1B",
+      "manu":"TP-LINK TECHNOLOGIES CO.,LTD."
+    },
+    {
+      "addr":"90AFD1",
+      "manu":"netKTI Co., Ltd"
+    },
+    {
+      "addr":"90B0ED",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"90B11C",
+      "manu":"Dell Inc."
+    },
+    {
+      "addr":"90B134",
+      "manu":"ARRIS Group, Inc."
+    },
+    {
+      "addr":"90B144",
+      "manu":"Samsung Electronics Co.,Ltd"
+    },
+    {
+      "addr":"90B1E0",
+      "manu":"Beijing Nebula Link Technology Co., Ltd"
+    },
+    {
+      "addr":"90B21F",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"90B686",
+      "manu":"Murata Manufacturing Co., Ltd."
+    },
+    {
+      "addr":"90B832",
+      "manu":"Extreme Networks, Inc."
+    },
+    {
+      "addr":"90B8D0",
+      "manu":"Joyent, Inc."
+    },
+    {
+      "addr":"90B8E0",
+      "manu":"SHENZHEN YANRAY TECHNOLOGY CO.,LTD"
+    },
+    {
+      "addr":"90B931",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"90B97D",
+      "manu":"Johnson Outdoors Marine Electronics d/b/a Minnkota"
+    },
+    {
+      "addr":"90BDE6",
+      "manu":"Quectel Wireless Solutions Co., Ltd."
+    },
+    {
+      "addr":"90C115",
+      "manu":"Sony Mobile Communications Inc"
+    },
+    {
+      "addr":"90C1C6",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"90C35F",
+      "manu":"Nanjing Jiahao Technology Co., Ltd."
+    },
+    {
+      "addr":"90C54A",
+      "manu":"vivo Mobile Communication Co., Ltd."
+    },
+    {
+      "addr":"90C682",
+      "manu":"IEEE Registration Authority"
+    },
+    {
+      "addr":"90C792",
+      "manu":"ARRIS Group, Inc."
+    },
+    {
+      "addr":"90C7D8",
+      "manu":"zte corporation"
+    },
+    {
+      "addr":"90C99B",
+      "manu":"Tesorion Nederland B.V."
+    },
+    {
+      "addr":"90CC24",
+      "manu":"Synaptics, Inc"
+    },
+    {
+      "addr":"90CDB6",
+      "manu":"Hon Hai Precision Ind. Co.,Ltd."
+    },
+    {
+      "addr":"90CF15",
+      "manu":"Nokia Corporation"
+    },
+    {
+      "addr":"90CF6F",
+      "manu":"Dlogixs Co Ltd"
+    },
+    {
+      "addr":"90CF7D",
+      "manu":"Qingdao Hisense Communications Co.,Ltd."
+    },
+    {
+      "addr":"90D11B",
+      "manu":"Palomar Medical Technologies"
+    },
+    {
+      "addr":"90D74F",
+      "manu":"Bookeen"
+    },
+    {
+      "addr":"90D7BE",
+      "manu":"Wavelab Global Inc."
+    },
+    {
+      "addr":"90D7EB",
+      "manu":"Texas Instruments"
+    },
+    {
+      "addr":"90D852",
+      "manu":"Comtec Co., Ltd."
+    },
+    {
+      "addr":"90D8F3",
+      "manu":"zte corporation"
+    },
+    {
+      "addr":"90D92C",
+      "manu":"HUG-WITSCHI AG"
+    },
+    {
+      "addr":"90DA4E",
+      "manu":"AVANU"
+    },
+    {
+      "addr":"90DA6A",
+      "manu":"FOCUS H&S Co., Ltd."
+    },
+    {
+      "addr":"90DB46",
+      "manu":"E-LEAD ELECTRONIC CO., LTD"
+    },
+    {
+      "addr":"90DD5D",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"90DFB7",
+      "manu":"s.m.s smart microwave sensors GmbH"
+    },
+    {
+      "addr":"90DFFB",
+      "manu":"HOMERIDER SYSTEMS"
+    },
+    {
+      "addr":"90E0F0",
+      "manu":"IEEE 1722a Working Group"
+    },
+    {
+      "addr":"90E17B",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"90E202",
+      "manu":"Texas Instruments"
+    },
+    {
+      "addr":"90E2BA",
+      "manu":"Intel Corporate"
+    },
+    {
+      "addr":"90E2FC",
+      "manu":"IEEE Registration Authority"
+    },
+    {
+      "addr":"90E6BA",
+      "manu":"ASUSTek COMPUTER INC."
+    },
+    {
+      "addr":"90E710",
+      "manu":"New H3C Technologies Co., Ltd"
+    },
+    {
+      "addr":"90E7C4",
+      "manu":"HTC Corporation"
+    },
+    {
+      "addr":"90EA60",
+      "manu":"SPI Lasers Ltd"
+    },
+    {
+      "addr":"90EC50",
+      "manu":"C.O.B.O. SPA"
+    },
+    {
+      "addr":"90EC77",
+      "manu":"silicom"
+    },
+    {
+      "addr":"90EEC7",
+      "manu":"Samsung Electronics Co.,Ltd"
+    },
+    {
+      "addr":"90EED9",
+      "manu":"UNIVERSAL DE DESARROLLOS ELECTRÓNICOS, SA"
+    },
+    {
+      "addr":"90EF68",
+      "manu":"Zyxel Communications Corporation"
+    },
+    {
+      "addr":"90F052",
+      "manu":"MEIZU Technology Co., Ltd."
+    },
+    {
+      "addr":"90F1AA",
+      "manu":"Samsung Electronics Co.,Ltd"
+    },
+    {
+      "addr":"90F1B0",
+      "manu":"Hangzhou Anheng Info&Tech CO.,LTD"
+    },
+    {
+      "addr":"90F278",
+      "manu":"Radius Gateway"
+    },
+    {
+      "addr":"90F305",
+      "manu":"HUMAX Co., Ltd."
+    },
+    {
+      "addr":"90F3B7",
+      "manu":"Kirisun Communications Co., Ltd."
+    },
+    {
+      "addr":"90F4C1",
+      "manu":"Rand McNally"
+    },
+    {
+      "addr":"90F652",
+      "manu":"TP-LINK TECHNOLOGIES CO.,LTD."
+    },
+    {
+      "addr":"90F72F",
+      "manu":"Phillips Machine & Welding Co., Inc."
+    },
+    {
+      "addr":"90F891",
+      "manu":"Kaonmedia CO., LTD."
+    },
+    {
+      "addr":"90FB5B",
+      "manu":"Avaya Inc"
+    },
+    {
+      "addr":"90FBA6",
+      "manu":"Hon Hai Precision Ind. Co.,Ltd."
+    },
+    {
+      "addr":"90FD61",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"90FD73",
+      "manu":"zte corporation"
+    },
+    {
+      "addr":"90FD9F",
+      "manu":"Silicon Laboratories"
+    },
+    {
+      "addr":"90FF79",
+      "manu":"Metro Ethernet Forum"
+    },
+    {
+      "addr":"940006",
+      "manu":"jinyoung"
+    },
+    {
+      "addr":"940070",
+      "manu":"Nokia Corporation"
+    },
+    {
+      "addr":"9400B0",
+      "manu":"HUAWEI TECHNOLOGIES CO.,LTD"
+    },
+    {
+      "addr":"940149",
+      "manu":"AutoHotBox"
+    },
+    {
+      "addr":"9401C2",
+      "manu":"Samsung Electronics Co.,Ltd"
+    },
+    {
+      "addr":"94049C",
+      "manu":"HUAWEI TECHNOLOGIES CO.,LTD"
+    },
+    {
+      "addr":"9405B6",
+      "manu":"Liling FullRiver Electronics & Technology Ltd"
+    },
+    {
+      "addr":"9405BB",
+      "manu":"IEEE Registration Authority"
+    },
+    {
+      "addr":"940853",
+      "manu":"Liteon Technology Corporation"
+    },
+    {
+      "addr":"9408C7",
+      "manu":"Huawei Device Co., Ltd."
+    },
+    {
+      "addr":"940937",
+      "manu":"HUMAX Co., Ltd."
+    },
+    {
+      "addr":"940B19",
+      "manu":"HUAWEI TECHNOLOGIES CO.,LTD"
+    },
+    {
+      "addr":"940B2D",
+      "manu":"NetView Technologies(Shenzhen) Co., Ltd"
+    },
+    {
+      "addr":"940BD5",
+      "manu":"Himax Technologies, Inc"
+    },
+    {
+      "addr":"940C6D",
+      "manu":"TP-LINK TECHNOLOGIES CO.,LTD."
+    },
+    {
+      "addr":"940C98",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"940E6B",
+      "manu":"HUAWEI TECHNOLOGIES CO.,LTD"
+    },
+    {
+      "addr":"94103E",
+      "manu":"Belkin International Inc."
+    },
+    {
+      "addr":"9411DA",
+      "manu":"ITF Fröschl GmbH"
+    },
+    {
+      "addr":"94147A",
+      "manu":"vivo Mobile Communication Co., Ltd."
+    },
+    {
+      "addr":"941625",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"941673",
+      "manu":"Point Core SARL"
+    },
+    {
+      "addr":"941882",
+      "manu":"Hewlett Packard Enterprise"
+    },
+    {
+      "addr":"94193A",
+      "manu":"Elvaco AB"
+    },
+    {
+      "addr":"941C56",
+      "manu":"Actiontec Electronics, Inc"
+    },
+    {
+      "addr":"941D1C",
+      "manu":"TLab West Systems AB"
+    },
+    {
+      "addr":"942053",
+      "manu":"Nokia Corporation"
+    },
+    {
+      "addr":"942197",
+      "manu":"Stalmart Technology Limited"
+    },
+    {
+      "addr":"94236E",
+      "manu":"Shenzhen Junlan Electronic Ltd"
+    },
+    {
+      "addr":"9424B8",
+      "manu":"GREE ELECTRIC APPLIANCES, INC. OF ZHUHAI"
+    },
+    {
+      "addr":"9424E1",
+      "manu":"Alcatel-Lucent Enterprise"
+    },
+    {
+      "addr":"942533",
+      "manu":"HUAWEI TECHNOLOGIES CO.,LTD"
+    },
+    {
+      "addr":"942790",
+      "manu":"TCT mobile ltd"
+    },
+    {
+      "addr":"94282E",
+      "manu":"New H3C Technologies Co., Ltd"
+    },
+    {
+      "addr":"94290C",
+      "manu":"Shenyang wisdom Foundation Technology Development Co., Ltd."
+    },
+    {
+      "addr":"94292F",
+      "manu":"New H3C Technologies Co., Ltd"
+    },
+    {
+      "addr":"94298D",
+      "manu":"Shanghai AdaptComm Technology Co., Ltd."
+    },
+    {
+      "addr":"942A3F",
+      "manu":"Diversey Inc"
+    },
+    {
+      "addr":"942CB3",
+      "manu":"HUMAX Co., Ltd."
+    },
+    {
+      "addr":"942DDC",
+      "manu":"Samsung Electronics Co.,Ltd"
+    },
+    {
+      "addr":"942E17",
+      "manu":"Schneider Electric Canada Inc"
+    },
+    {
+      "addr":"942E63",
+      "manu":"Finsécur"
+    },
+    {
+      "addr":"94319B",
+      "manu":"Alphatronics BV"
+    },
+    {
+      "addr":"9433DD",
+      "manu":"Taco Inc"
+    },
+    {
+      "addr":"94350A",
+      "manu":"Samsung Electronics Co.,Ltd"
+    },
+    {
+      "addr":"9436E0",
+      "manu":"Sichuan Bihong Broadcast &amp; Television New Technologies Co.,Ltd"
+    },
+    {
+      "addr":"9437F7",
+      "manu":"Huawei Device Co., Ltd."
+    },
+    {
+      "addr":"9439E5",
+      "manu":"Hon Hai Precision Ind. Co.,Ltd."
+    },
+    {
+      "addr":"943AF0",
+      "manu":"Nokia Corporation"
+    },
+    {
+      "addr":"943BB0",
+      "manu":"New H3C Technologies Co., Ltd"
+    },
+    {
+      "addr":"943BB1",
+      "manu":"Kaonmedia CO., LTD."
+    },
+    {
+      "addr":"943DC9",
+      "manu":"Asahi Net, Inc."
+    },
+    {
+      "addr":"943FC2",
+      "manu":"Hewlett Packard Enterprise"
+    },
+    {
+      "addr":"9440A2",
+      "manu":"Anywave Communication Technologies, Inc."
+    },
+    {
+      "addr":"9440C9",
+      "manu":"Hewlett Packard Enterprise"
+    },
+    {
+      "addr":"9441C1",
+      "manu":"Mini-Cam Limited"
+    },
+    {
+      "addr":"94434D",
+      "manu":"Ciena Corporation"
+    },
+    {
+      "addr":"944444",
+      "manu":"LG Innotek"
+    },
+    {
+      "addr":"944452",
+      "manu":"Belkin International Inc."
+    },
+    {
+      "addr":"944696",
+      "manu":"BaudTec Corporation"
+    },
+    {
+      "addr":"944996",
+      "manu":"WiSilica Inc"
+    },
+    {
+      "addr":"944A09",
+      "manu":"BitWise Controls"
+    },
+    {
+      "addr":"944A0C",
+      "manu":"Sercomm Corporation."
+    },
+    {
+      "addr":"944F4C",
+      "manu":"Sound United LLC"
+    },
+    {
+      "addr":"945047",
+      "manu":"Rechnerbetriebsgruppe"
+    },
+    {
+      "addr":"945089",
+      "manu":"SimonsVoss Technologies GmbH"
+    },
+    {
+      "addr":"945103",
+      "manu":"Samsung Electronics Co.,Ltd"
+    },
+    {
+      "addr":"94513D",
+      "manu":"iSmart Alarm, Inc."
+    },
+    {
+      "addr":"9451BF",
+      "manu":"Hyundai ESG"
+    },
+    {
+      "addr":"945330",
+      "manu":"Hon Hai Precision Ind. Co.,Ltd."
+    },
+    {
+      "addr":"945493",
+      "manu":"Rigado, LLC"
+    },
+    {
+      "addr":"9454DF",
+      "manu":"YST CORP."
+    },
+    {
+      "addr":"9457A5",
+      "manu":"Hewlett Packard"
+    },
+    {
+      "addr":"9458CB",
+      "manu":"Nintendo Co.,Ltd"
+    },
+    {
+      "addr":"945907",
+      "manu":"Shanghai HITE-BELDEN Network Technology Co., Ltd."
+    },
+    {
+      "addr":"94592D",
+      "manu":"EKE Building Technology Systems Ltd"
+    },
+    {
+      "addr":"945B7E",
+      "manu":"TRILOBIT LTDA."
+    },
+    {
+      "addr":"94611E",
+      "manu":"Wata Electronics Co.,Ltd."
+    },
+    {
+      "addr":"946124",
+      "manu":"Pason Systems"
+    },
+    {
+      "addr":"946269",
+      "manu":"ARRIS Group, Inc."
+    },
+    {
+      "addr":"946372",
+      "manu":"vivo Mobile Communication Co., Ltd."
+    },
+    {
+      "addr":"9463D1",
+      "manu":"Samsung Electronics Co.,Ltd"
+    },
+    {
+      "addr":"94652D",
+      "manu":"OnePlus Technology (Shenzhen) Co., Ltd"
+    },
+    {
+      "addr":"94659C",
+      "manu":"Intel Corporate"
+    },
+    {
+      "addr":"9466E7",
+      "manu":"WOM Engineering"
+    },
+    {
+      "addr":"94677E",
+      "manu":"Belden India Private Limited"
+    },
+    {
+      "addr":"946A77",
+      "manu":"Technicolor CH USA Inc."
+    },
+    {
+      "addr":"946AB0",
+      "manu":"Arcadyan Corporation"
+    },
+    {
+      "addr":"9470D2",
+      "manu":"WINFIRM TECHNOLOGY"
+    },
+    {
+      "addr":"9471AC",
+      "manu":"TCT mobile ltd"
+    },
+    {
+      "addr":"94756E",
+      "manu":"QinetiQ North America"
+    },
+    {
+      "addr":"9476B7",
+      "manu":"Samsung Electronics Co.,Ltd"
+    },
+    {
+      "addr":"94772B",
+      "manu":"HUAWEI TECHNOLOGIES CO.,LTD"
+    },
+    {
+      "addr":"947BBE",
+      "manu":"Ubicquia"
+    },
+    {
+      "addr":"947BE7",
+      "manu":"Samsung Electronics Co.,Ltd"
+    },
+    {
+      "addr":"947C3E",
+      "manu":"Polewall Norge AS"
+    },
+    {
+      "addr":"947EB9",
+      "manu":"National Narrowband Network Communications Pty Ltd"
+    },
+    {
+      "addr":"9481A4",
+      "manu":"Azuray Technologies"
+    },
+    {
+      "addr":"9483C4",
+      "manu":"GL Technologies (Hong Kong) Limited"
+    },
+    {
+      "addr":"94857A",
+      "manu":"Evantage Industries Corp"
+    },
+    {
+      "addr":"9486CD",
+      "manu":"SEOUL ELECTRONICS&TELECOM"
+    },
+    {
+      "addr":"9486D4",
+      "manu":"Surveillance Pro Corporation"
+    },
+    {
+      "addr":"94877C",
+      "manu":"ARRIS Group, Inc."
+    },
+    {
+      "addr":"9487E0",
+      "manu":"Xiaomi Communications Co Ltd"
+    },
+    {
+      "addr":"948815",
+      "manu":"Infinique Worldwide Inc"
+    },
+    {
+      "addr":"948854",
+      "manu":"Texas Instruments"
+    },
+    {
+      "addr":"94885E",
+      "manu":"Surfilter Network Technology Co., Ltd."
+    },
+    {
+      "addr":"948AC6",
+      "manu":"Realme Chongqing Mobile Telecommunications Corp.,Ltd."
+    },
+    {
+      "addr":"948B03",
+      "manu":"EAGET Innovation and Technology Co., Ltd."
+    },
+    {
+      "addr":"948BC1",
+      "manu":"Samsung Electronics Co.,Ltd"
+    },
+    {
+      "addr":"948D50",
+      "manu":"Beamex Oy Ab"
+    },
+    {
+      "addr":"948DEF",
+      "manu":"Oetiker Schweiz AG"
+    },
+    {
+      "addr":"948E89",
+      "manu":"INDUSTRIAS UNIDAS SA DE CV"
+    },
+    {
+      "addr":"948FCF",
+      "manu":"ARRIS Group, Inc."
+    },
+    {
+      "addr":"948FEE",
+      "manu":"Verizon Telematics"
+    },
+    {
+      "addr":"949034",
+      "manu":"SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD"
+    },
+    {
+      "addr":"94917F",
+      "manu":"ASKEY COMPUTER CORP"
+    },
+    {
+      "addr":"9492BC",
+      "manu":"SYNTECH(HK) TECHNOLOGY LIMITED"
+    },
+    {
+      "addr":"9492D2",
+      "manu":"KCF Technologies, Inc."
+    },
+    {
+      "addr":"949426",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"9495A0",
+      "manu":"Google, Inc."
+    },
+    {
+      "addr":"9498A2",
+      "manu":"Shanghai LISTEN TECH.LTD"
+    },
+    {
+      "addr":"949901",
+      "manu":"Shenzhen YITOA Digital Appliance CO.,LTD"
+    },
+    {
+      "addr":"949990",
+      "manu":"VTC Telecommunications"
+    },
+    {
+      "addr":"949AA9",
+      "manu":"Microsoft Corporation"
+    },
+    {
+      "addr":"949B2C",
+      "manu":"Extreme Networks, Inc."
+    },
+    {
+      "addr":"949BFD",
+      "manu":"Trans New Technology, Inc."
+    },
+    {
+      "addr":"949C55",
+      "manu":"Alta Data Technologies"
+    },
+    {
+      "addr":"949D57",
+      "manu":"Panasonic do Brasil Limitada"
+    },
+    {
+      "addr":"949F3E",
+      "manu":"Sonos, Inc."
+    },
+    {
+      "addr":"949F3F",
+      "manu":"Optek Digital Technology company limited"
+    },
+    {
+      "addr":"949FB4",
+      "manu":"ChengDu JiaFaAnTai Technology Co.,Ltd"
+    },
+    {
+      "addr":"94A04E",
+      "manu":"Bostex Technology Co., LTD"
+    },
+    {
+      "addr":"94A1A2",
+      "manu":"AMPAK Technology, Inc."
+    },
+    {
+      "addr":"94A3CA",
+      "manu":"KonnectONE, LLC"
+    },
+    {
+      "addr":"94A40C",
+      "manu":"Diehl Metering GmbH"
+    },
+    {
+      "addr":"94A7B7",
+      "manu":"zte corporation"
+    },
+    {
+      "addr":"94A7BC",
+      "manu":"BodyMedia, Inc."
+    },
+    {
+      "addr":"94AAB8",
+      "manu":"Joview(Beijing) Technology Co. Ltd."
+    },
+    {
+      "addr":"94ABDE",
+      "manu":"OMX Technology - FZE"
+    },
+    {
+      "addr":"94ACCA",
+      "manu":"trivum technologies GmbH"
+    },
+    {
+      "addr":"94AE61",
+      "manu":"Alcatel Lucent"
+    },
+    {
+      "addr":"94AEE3",
+      "manu":"Belden Hirschmann Industries (Suzhou) Ltd."
+    },
+    {
+      "addr":"94AEF0",
+      "manu":"Cisco Systems, Inc"
+    },
+    {
+      "addr":"94B01F",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"94B10A",
+      "manu":"Samsung Electronics Co.,Ltd"
+    },
+    {
+      "addr":"94B2CC",
+      "manu":"PIONEER CORPORATION"
+    },
+    {
+      "addr":"94B40F",
+      "manu":"Aruba, a Hewlett Packard Enterprise Company"
+    },
+    {
+      "addr":"94B819",
+      "manu":"Nokia"
+    },
+    {
+      "addr":"94B86D",
+      "manu":"Intel Corporate"
+    },
+    {
+      "addr":"94B8C5",
+      "manu":"RuggedCom Inc."
+    },
+    {
+      "addr":"94B9B4",
+      "manu":"Aptos Technology"
+    },
+    {
+      "addr":"94BA31",
+      "manu":"Visiontec da Amazônia Ltda."
+    },
+    {
+      "addr":"94BA56",
+      "manu":"Shenzhen Coship Electronics Co., Ltd."
+    },
+    {
+      "addr":"94BBAE",
+      "manu":"Husqvarna AB"
+    },
+    {
+      "addr":"94BE46",
+      "manu":"Motorola (Wuhan) Mobility Technologies Communication Co., Ltd."
+    },
+    {
+      "addr":"94BF1E",
+      "manu":"eflow Inc. / Smart Device Planning and Development Division"
+    },
+    {
+      "addr":"94BF2D",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"94BF80",
+      "manu":"zte corporation"
+    },
+    {
+      "addr":"94BF94",
+      "manu":"Juniper Networks"
+    },
+    {
+      "addr":"94BF95",
+      "manu":"Shenzhen Coship Electronics Co., Ltd"
+    },
+    {
+      "addr":"94BFC4",
+      "manu":"Ruckus Wireless"
+    },
+    {
+      "addr":"94C014",
+      "manu":"Sorter Sp. j. Konrad Grzeszczyk MichaA, Ziomek"
+    },
+    {
+      "addr":"94C038",
+      "manu":"Tallac Networks"
+    },
+    {
+      "addr":"94C150",
+      "manu":"2Wire Inc"
+    },
+    {
+      "addr":"94C2BD",
+      "manu":"TECNOBIT"
+    },
+    {
+      "addr":"94C3E4",
+      "manu":"Atlas Copco IAS GmbH"
+    },
+    {
+      "addr":"94C4E9",
+      "manu":"PowerLayer Microsystems HongKong Limited"
+    },
+    {
+      "addr":"94C691",
+      "manu":"EliteGroup Computer Systems Co., LTD"
+    },
+    {
+      "addr":"94C6EB",
+      "manu":"NOVA electronics, Inc."
+    },
+    {
+      "addr":"94C7AF",
+      "manu":"Raylios Technology"
+    },
+    {
+      "addr":"94C960",
+      "manu":"Zhongshan B&T technology.co.,ltd"
+    },
+    {
+      "addr":"94C962",
+      "manu":"Teseq AG"
+    },
+    {
+      "addr":"94CA0F",
+      "manu":"Honeywell Analytics"
+    },
+    {
+      "addr":"94CC04",
+      "manu":"IEEE Registration Authority"
+    },
+    {
+      "addr":"94CCB9",
+      "manu":"ARRIS Group, Inc."
+    },
+    {
+      "addr":"94CDAC",
+      "manu":"Creowave Oy"
+    },
+    {
+      "addr":"94CE2C",
+      "manu":"Sony Mobile Communications Inc"
+    },
+    {
+      "addr":"94CE31",
+      "manu":"CTS Limited"
+    },
+    {
+      "addr":"94D00D",
+      "manu":"HUAWEI TECHNOLOGIES CO.,LTD"
+    },
+    {
+      "addr":"94D019",
+      "manu":"Cydle Corp."
+    },
+    {
+      "addr":"94D029",
+      "manu":"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD"
+    },
+    {
+      "addr":"94D075",
+      "manu":"CIS Crypto"
+    },
+    {
+      "addr":"94D299",
+      "manu":"Techmation Co.,Ltd."
+    },
+    {
+      "addr":"94D417",
+      "manu":"GPI KOREA INC."
+    },
+    {
+      "addr":"94D469",
+      "manu":"Cisco Systems, Inc"
+    },
+    {
+      "addr":"94D505",
+      "manu":"Fiberhome Telecommunication Technologies Co.,LTD"
+    },
+    {
+      "addr":"94D60E",
+      "manu":"shenzhen yunmao information technologies co., ltd"
+    },
+    {
+      "addr":"94D6DB",
+      "manu":"NexFi"
+    },
+    {
+      "addr":"94D723",
+      "manu":"Shanghai DareGlobal Technologies Co.,Ltd"
+    },
+    {
+      "addr":"94D771",
+      "manu":"Samsung Electronics Co.,Ltd"
+    },
+    {
+      "addr":"94D859",
+      "manu":"TCT mobile ltd"
+    },
+    {
+      "addr":"94D93C",
+      "manu":"ENELPS"
+    },
+    {
+      "addr":"94D9B3",
+      "manu":"TP-LINK TECHNOLOGIES CO.,LTD."
+    },
+    {
+      "addr":"94DB49",
+      "manu":"SITCORP"
+    },
+    {
+      "addr":"94DB56",
+      "manu":"Sony Home Entertainment&Sound Products Inc"
+    },
+    {
+      "addr":"94DBC9",
+      "manu":"AzureWave Technology Inc."
+    },
+    {
+      "addr":"94DBDA",
+      "manu":"HUAWEI TECHNOLOGIES CO.,LTD"
+    },
+    {
+      "addr":"94DC4E",
+      "manu":"AEV, spol. s r. o."
+    },
+    {
+      "addr":"94DD3F",
+      "manu":"A+V Link Technologies, Corp."
+    },
+    {
+      "addr":"94DE0E",
+      "manu":"SmartOptics AS"
+    },
+    {
+      "addr":"94DE80",
+      "manu":"GIGA-BYTE TECHNOLOGY CO.,LTD."
+    },
+    {
+      "addr":"94DF4E",
+      "manu":"Wistron InfoComm(Kunshan)Co.,Ltd."
+    },
+    {
+      "addr":"94DF58",
+      "manu":"IJ Electron CO.,Ltd."
+    },
+    {
+      "addr":"94E0D0",
+      "manu":"HealthStream Taiwan Inc."
+    },
+    {
+      "addr":"94E0D6",
+      "manu":"China Dragon Technology Limited"
+    },
+    {
+      "addr":"94E1AC",
+      "manu":"Hangzhou Hikvision Digital Technology Co.,Ltd."
+    },
+    {
+      "addr":"94E226",
+      "manu":"D. ORtiz Consulting, LLC"
+    },
+    {
+      "addr":"94E2FD",
+      "manu":"Boge Kompressoren OTTO Boge GmbH & Co. KG"
+    },
+    {
+      "addr":"94E36D",
+      "manu":"Texas Instruments"
+    },
+    {
+      "addr":"94E3EE",
+      "manu":"zte corporation"
+    },
+    {
+      "addr":"94E4BA",
+      "manu":"Huawei Device Co., Ltd."
+    },
+    {
+      "addr":"94E6F7",
+      "manu":"Intel Corporate"
+    },
+    {
+      "addr":"94E70B",
+      "manu":"Intel Corporate"
+    },
+    {
+      "addr":"94E711",
+      "manu":"Xirka Dama Persada PT"
+    },
+    {
+      "addr":"94E7EA",
+      "manu":"HUAWEI TECHNOLOGIES CO.,LTD"
+    },
+    {
+      "addr":"94E848",
+      "manu":"FYLDE MICRO LTD"
+    },
+    {
+      "addr":"94E8C5",
+      "manu":"ARRIS Group, Inc."
+    },
+    {
+      "addr":"94E96A",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"94E979",
+      "manu":"Liteon Technology Corporation"
+    },
+    {
+      "addr":"94E98C",
+      "manu":"Nokia"
+    },
+    {
+      "addr":"94E9EE",
+      "manu":"Huawei Device Co., Ltd."
+    },
+    {
+      "addr":"94EAEA",
+      "manu":"TELLESCOM INDUSTRIA E COMERCIO EM TELECOMUNICACAO"
+    },
+    {
+      "addr":"94EB2C",
+      "manu":"Google, Inc."
+    },
+    {
+      "addr":"94EBCD",
+      "manu":"BlackBerry RTS"
+    },
+    {
+      "addr":"94EE9F",
+      "manu":"HMD Global Oy"
+    },
+    {
+      "addr":"94F128",
+      "manu":"Hewlett Packard Enterprise"
+    },
+    {
+      "addr":"94F19E",
+      "manu":"HUIZHOU MAORONG INTELLIGENT TECHNOLOGY CO.,LTD"
+    },
+    {
+      "addr":"94F278",
+      "manu":"Elma Electronic"
+    },
+    {
+      "addr":"94F551",
+      "manu":"Cadi Scientific Pte Ltd"
+    },
+    {
+      "addr":"94F665",
+      "manu":"Ruckus Wireless"
+    },
+    {
+      "addr":"94F692",
+      "manu":"Geminico co.,Ltd."
+    },
+    {
+      "addr":"94F6A3",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"94F6D6",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"94F720",
+      "manu":"Tianjin Deviser Electronics Instrument Co., Ltd"
+    },
+    {
+      "addr":"94F7AD",
+      "manu":"Juniper Networks"
+    },
+    {
+      "addr":"94FAE8",
+      "manu":"Shenzhen Eycom Technology Co., Ltd"
+    },
+    {
+      "addr":"94FB29",
+      "manu":"Zebra Technologies Inc."
+    },
+    {
+      "addr":"94FBA7",
+      "manu":"IEEE Registration Authority"
+    },
+    {
+      "addr":"94FBB2",
+      "manu":"SHENZHEN GONGJIN ELECTRONICS CO.,LT"
+    },
+    {
+      "addr":"94FD1D",
+      "manu":"WhereWhen Corp"
+    },
+    {
+      "addr":"94FD2E",
+      "manu":"Shanghai Uniscope Technologies Co.,Ltd"
+    },
+    {
+      "addr":"94FE22",
+      "manu":"HUAWEI TECHNOLOGIES CO.,LTD"
+    },
+    {
+      "addr":"94FE9D",
+      "manu":"SHENZHEN GONGJIN ELECTRONICS CO.,LT"
+    },
+    {
+      "addr":"94FEF4",
+      "manu":"Sagemcom Broadband SAS"
+    },
+    {
+      "addr":"98006A",
+      "manu":"zte corporation"
+    },
+    {
+      "addr":"980074",
+      "manu":"Raisecom Technology CO., LTD"
+    },
+    {
+      "addr":"9800C1",
+      "manu":"GuangZhou CREATOR Technology Co.,Ltd.(CHINA)"
+    },
+    {
+      "addr":"9800C6",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"9801A7",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"980284",
+      "manu":"Theobroma Systems GmbH"
+    },
+    {
+      "addr":"9802D8",
+      "manu":"IEEE Registration Authority"
+    },
+    {
+      "addr":"98039B",
+      "manu":"Mellanox Technologies, Inc."
+    },
+    {
+      "addr":"9803A0",
+      "manu":"ABB n.v. Power Quality Products"
+    },
+    {
+      "addr":"9803D8",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"980637",
+      "manu":"IEEE Registration Authority"
+    },
+    {
+      "addr":"98063C",
+      "manu":"Samsung Electronics Co.,Ltd"
+    },
+    {
+      "addr":"98072D",
+      "manu":"Texas Instruments"
+    },
+    {
+      "addr":"9809CF",
+      "manu":"OnePlus Technology (Shenzhen) Co., Ltd"
+    },
+    {
+      "addr":"980C82",
+      "manu":"SAMSUNG ELECTRO MECHANICS CO., LTD."
+    },
+    {
+      "addr":"980CA5",
+      "manu":"Motorola (Wuhan) Mobility Technologies Communication Co., Ltd."
+    },
+    {
+      "addr":"980D2E",
+      "manu":"HTC Corporation"
+    },
+    {
+      "addr":"980D51",
+      "manu":"Huawei Device Co., Ltd."
+    },
+    {
+      "addr":"980D67",
+      "manu":"Zyxel Communications Corporation"
+    },
+    {
+      "addr":"980E24",
+      "manu":"Phytium Technology Co.,Ltd."
+    },
+    {
+      "addr":"980EE4",
+      "manu":"Private"
+    },
+    {
+      "addr":"981094",
+      "manu":"Shenzhen Vsun communication technology Co.,ltd"
+    },
+    {
+      "addr":"9810E8",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"981333",
+      "manu":"zte corporation"
+    },
+    {
+      "addr":"9814D2",
+      "manu":"Avonic"
+    },
+    {
+      "addr":"9816EC",
+      "manu":"IC Intracom"
+    },
+    {
+      "addr":"981888",
+      "manu":"Cisco Meraki"
+    },
+    {
+      "addr":"981BB5",
+      "manu":"ASSA ABLOY Korea Co., Ltd iRevo"
+    },
+    {
+      "addr":"981DFA",
+      "manu":"Samsung Electronics Co.,Ltd"
+    },
+    {
+      "addr":"981E0F",
+      "manu":"Jeelan (Shanghai Jeelan Technology Information Inc"
+    },
+    {
+      "addr":"981E19",
+      "manu":"Sagemcom Broadband SAS"
+    },
+    {
+      "addr":"981FB1",
+      "manu":"Shenzhen Lemon Network Technology Co.,Ltd"
+    },
+    {
+      "addr":"98208E",
+      "manu":"Definium Technologies"
+    },
+    {
+      "addr":"9822EF",
+      "manu":"Liteon Technology Corporation"
+    },
+    {
+      "addr":"98234E",
+      "manu":"Micromedia AG"
+    },
+    {
+      "addr":"98262A",
+      "manu":"Applied Research Associates, Inc"
+    },
+    {
+      "addr":"9828A6",
+      "manu":"COMPAL INFORMATION (KUNSHAN) CO., LTD."
+    },
+    {
+      "addr":"98291D",
+      "manu":"Jaguar de Mexico, SA de CV"
+    },
+    {
+      "addr":"98293F",
+      "manu":"Fujian Start Computer Equipment Co.,Ltd"
+    },
+    {
+      "addr":"9829A6",
+      "manu":"COMPAL INFORMATION (KUNSHAN) CO., LTD."
+    },
+    {
+      "addr":"982CBC",
+      "manu":"Intel Corporate"
+    },
+    {
+      "addr":"982CBE",
+      "manu":"2Wire Inc"
+    },
+    {
+      "addr":"982D56",
+      "manu":"Resolution Audio"
+    },
+    {
+      "addr":"982D68",
+      "manu":"Samsung Electronics Co., Ltd"
+    },
+    {
+      "addr":"982DBA",
+      "manu":"Fibergate Inc."
+    },
+    {
+      "addr":"982F3C",
+      "manu":"Sichuan Changhong Electric Ltd."
+    },
+    {
+      "addr":"982FF8",
+      "manu":"Huawei Device Co., Ltd."
+    },
+    {
+      "addr":"983000",
+      "manu":"Beijing KEMACOM Technologies Co., Ltd."
+    },
+    {
+      "addr":"983071",
+      "manu":"DAIKYUNG VASCOM"
+    },
+    {
+      "addr":"98349D",
+      "manu":"Krauss Maffei Technologies GmbH"
+    },
+    {
+      "addr":"983571",
+      "manu":"Sub10 Systems Ltd"
+    },
+    {
+      "addr":"9835B8",
+      "manu":"Assembled Products Corporation"
+    },
+    {
+      "addr":"9835ED",
+      "manu":"HUAWEI TECHNOLOGIES CO.,LTD"
+    },
+    {
+      "addr":"983713",
+      "manu":"PT.Navicom Indonesia"
+    },
+    {
+      "addr":"98398E",
+      "manu":"Samsung Electronics Co.,Ltd"
+    },
+    {
+      "addr":"983B16",
+      "manu":"AMPAK Technology, Inc."
+    },
+    {
+      "addr":"983B8F",
+      "manu":"Intel Corporate"
+    },
+    {
+      "addr":"983F9F",
+      "manu":"China SSJ (Suzhou) Network Technology Inc."
+    },
+    {
+      "addr":"9840BB",
+      "manu":"Dell Inc."
+    },
+    {
+      "addr":"98415C",
+      "manu":"Nintendo Co.,Ltd"
+    },
+    {
+      "addr":"984246",
+      "manu":"SOL INDUSTRY PTE., LTD"
+    },
+    {
+      "addr":"9843DA",
+      "manu":"INTERTECH"
+    },
+    {
+      "addr":"9844B6",
+      "manu":"INFRANOR SAS"
+    },
+    {
+      "addr":"9844CE",
+      "manu":"HUAWEI TECHNOLOGIES CO.,LTD"
+    },
+    {
+      "addr":"984562",
+      "manu":"Shanghai Baud Data Communication Co.,Ltd."
+    },
+    {
+      "addr":"98460A",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"98473C",
+      "manu":"SHANGHAI SUNMON COMMUNICATION TECHNOGY CO.,LTD"
+    },
+    {
+      "addr":"984827",
+      "manu":"TP-LINK TECHNOLOGIES CO.,LTD."
+    },
+    {
+      "addr":"984914",
+      "manu":"Wistron Neweb Corporation"
+    },
+    {
+      "addr":"9849E1",
+      "manu":"Boeing Defence Australia"
+    },
+    {
+      "addr":"984A47",
+      "manu":"CHG Hospital Beds"
+    },
+    {
+      "addr":"984B4A",
+      "manu":"ARRIS Group, Inc."
+    },
+    {
+      "addr":"984BE1",
+      "manu":"Hewlett Packard"
+    },
+    {
+      "addr":"984C04",
+      "manu":"Zhangzhou Keneng Electrical Equipment Co Ltd"
+    },
+    {
+      "addr":"984CD3",
+      "manu":"Mantis Deposition"
+    },
+    {
+      "addr":"984E97",
+      "manu":"Starlight Marketing (H. K.) Ltd."
+    },
+    {
+      "addr":"984FEE",
+      "manu":"Intel Corporate"
+    },
+    {
+      "addr":"98523D",
+      "manu":"Sunitec Enterprise Co.,Ltd"
+    },
+    {
+      "addr":"98524A",
+      "manu":"Technicolor CH USA Inc."
+    },
+    {
+      "addr":"9852B1",
+      "manu":"Samsung Electronics Co.,Ltd"
+    },
+    {
+      "addr":"98541B",
+      "manu":"Intel Corporate"
+    },
+    {
+      "addr":"9857D3",
+      "manu":"HON HAI-CCPBG  PRECISION IND.CO.,LTD."
+    },
+    {
+      "addr":"98588A",
+      "manu":"SYSGRATION Ltd."
+    },
+    {
+      "addr":"985945",
+      "manu":"Texas Instruments"
+    },
+    {
+      "addr":"985949",
+      "manu":"LUXOTTICA GROUP S.P.A."
+    },
+    {
+      "addr":"985AEB",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"985BB0",
+      "manu":"KMDATA INC."
+    },
+    {
+      "addr":"985C93",
+      "manu":"SBG Systems SAS"
+    },
+    {
+      "addr":"985D46",
+      "manu":"PeopleNet Communication"
+    },
+    {
+      "addr":"985D82",
+      "manu":"Arista Networks"
+    },
+    {
+      "addr":"985DAD",
+      "manu":"Texas Instruments"
+    },
+    {
+      "addr":"985E1B",
+      "manu":"ConversDigital Co., Ltd."
+    },
+    {
+      "addr":"985FD3",
+      "manu":"Microsoft Corporation"
+    },
+    {
+      "addr":"986022",
+      "manu":"EMW Co., Ltd."
+    },
+    {
+      "addr":"9866EA",
+      "manu":"Industrial Control Communications, Inc."
+    },
+    {
+      "addr":"986B3D",
+      "manu":"ARRIS Group, Inc."
+    },
+    {
+      "addr":"986C5C",
+      "manu":"Jiangxi Gosun Guard Security Co.,Ltd"
+    },
+    {
+      "addr":"986CF5",
+      "manu":"zte corporation"
+    },
+    {
+      "addr":"986D35",
+      "manu":"IEEE Registration Authority"
+    },
+    {
+      "addr":"986DC8",
+      "manu":"TOSHIBA MITSUBISHI-ELECTRIC INDUSTRIAL SYSTEMS CORPORATION"
+    },
+    {
+      "addr":"986F60",
+      "manu":"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD"
+    },
+    {
+      "addr":"9870E8",
+      "manu":"INNATECH SDN BHD"
+    },
+    {
+      "addr":"9873C4",
+      "manu":"Sage Electronic Engineering LLC"
+    },
+    {
+      "addr":"98743D",
+      "manu":"Shenzhen Jun Kai Hengye Technology Co. Ltd"
+    },
+    {
+      "addr":"9874DA",
+      "manu":"Infinix mobility limited"
+    },
+    {
+      "addr":"9876B6",
+      "manu":"Adafruit"
+    },
+    {
+      "addr":"987770",
+      "manu":"Pep Digital Technology (Guangzhou) Co., Ltd"
+    },
+    {
+      "addr":"987A10",
+      "manu":"Ericsson AB"
+    },
+    {
+      "addr":"987A14",
+      "manu":"Microsoft Corporation"
+    },
+    {
+      "addr":"987BF3",
+      "manu":"Texas Instruments"
+    },
+    {
+      "addr":"987E46",
+      "manu":"Emizon Networks Limited"
+    },
+    {
+      "addr":"987ECA",
+      "manu":"Inventus Power Eletronica do Brasil LTDA"
+    },
+    {
+      "addr":"9880EE",
+      "manu":"Samsung Electronics Co.,Ltd"
+    },
+    {
+      "addr":"988217",
+      "manu":"Disruptive Ltd"
+    },
+    {
+      "addr":"988389",
+      "manu":"Samsung Electronics Co.,Ltd"
+    },
+    {
+      "addr":"9884E3",
+      "manu":"Texas Instruments"
+    },
+    {
+      "addr":"98865D",
+      "manu":"Nokia Shanghai Bell Co., Ltd."
+    },
+    {
+      "addr":"9886B1",
+      "manu":"Flyaudio corporation (China)"
+    },
+    {
+      "addr":"988744",
+      "manu":"Wuxi Hongda Science and Technology Co.,LTD"
+    },
+    {
+      "addr":"9889ED",
+      "manu":"Anadem Information Inc."
+    },
+    {
+      "addr":"988B0A",
+      "manu":"Hangzhou Hikvision Digital Technology Co.,Ltd."
+    },
+    {
+      "addr":"988B5D",
+      "manu":"Sagemcom Broadband SAS"
+    },
+    {
+      "addr":"988BAD",
+      "manu":"Corintech Ltd."
+    },
+    {
+      "addr":"988D46",
+      "manu":"Intel Corporate"
+    },
+    {
+      "addr":"988E34",
+      "manu":"ZHEJIANG BOXSAM ELECTRONIC CO.,LTD"
+    },
+    {
+      "addr":"988E4A",
+      "manu":"NOXUS(BEIJING) TECHNOLOGY CO.,LTD"
+    },
+    {
+      "addr":"988E79",
+      "manu":"Qudelix, Inc."
+    },
+    {
+      "addr":"988ED4",
+      "manu":"ITEL MOBILE LIMITED"
+    },
+    {
+      "addr":"988EDD",
+      "manu":"TE Connectivity Limerick"
+    },
+    {
+      "addr":"989080",
+      "manu":"Linkpower Network System Inc Ltd."
+    },
+    {
+      "addr":"989096",
+      "manu":"Dell Inc."
+    },
+    {
+      "addr":"9893CC",
+      "manu":"LG ELECTRONICS INC"
+    },
+    {
+      "addr":"989449",
+      "manu":"Skyworth Wireless Technology Ltd."
+    },
+    {
+      "addr":"9897D1",
+      "manu":"MitraStar Technology Corp."
+    },
+    {
+      "addr":"989BCB",
+      "manu":"AVM Audiovisuelles Marketing und Computersysteme GmbH"
+    },
+    {
+      "addr":"989C57",
+      "manu":"HUAWEI TECHNOLOGIES CO.,LTD"
+    },
+    {
+      "addr":"989D5D",
+      "manu":"Technicolor CH USA Inc."
+    },
+    {
+      "addr":"989E63",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"98A404",
+      "manu":"Ericsson AB"
+    },
+    {
+      "addr":"98A40E",
+      "manu":"Snap, Inc."
+    },
+    {
+      "addr":"98A7B0",
+      "manu":"MCST ZAO"
+    },
+    {
+      "addr":"98A942",
+      "manu":"Guangzhou Tozed Kangwei Intelligent Technology Co., LTD"
+    },
+    {
+      "addr":"98AA3C",
+      "manu":"Will i-tech Co., Ltd."
+    },
+    {
+      "addr":"98AAD7",
+      "manu":"BLUE WAVE NETWORKING CO LTD"
+    },
+    {
+      "addr":"98AAFC",
+      "manu":"IEEE Registration Authority"
+    },
+    {
+      "addr":"98AE71",
+      "manu":"VVDN Technologies Pvt Ltd"
+    },
+    {
+      "addr":"98AF65",
+      "manu":"Intel Corporate"
+    },
+    {
+      "addr":"98B039",
+      "manu":"Nokia"
+    },
+    {
+      "addr":"98B3EF",
+      "manu":"Huawei Device Co., Ltd."
+    },
+    {
+      "addr":"98B6E9",
+      "manu":"Nintendo Co.,Ltd"
+    },
+    {
+      "addr":"98B8BA",
+      "manu":"LG Electronics (Mobile Communications)"
+    },
+    {
+      "addr":"98B8BC",
+      "manu":"Samsung Electronics Co.,Ltd"
+    },
+    {
+      "addr":"98B8E3",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"98BA39",
+      "manu":"Doro AB"
+    },
+    {
+      "addr":"98BB1E",
+      "manu":"BYD Precision Manufacture Company Ltd."
+    },
+    {
+      "addr":"98BB99",
+      "manu":"Phicomm (Sichuan) Co.,Ltd."
+    },
+    {
+      "addr":"98BC57",
+      "manu":"SVA TECHNOLOGIES CO.LTD"
+    },
+    {
+      "addr":"98BC99",
+      "manu":"Edeltech Co.,Ltd."
+    },
+    {
+      "addr":"98BE94",
+      "manu":"IBM"
+    },
+    {
+      "addr":"98C0EB",
+      "manu":"Global Regency Ltd"
+    },
+    {
+      "addr":"98C5DB",
+      "manu":"Ericsson AB"
+    },
+    {
+      "addr":"98C7A4",
+      "manu":"Shenzhen HS Fiber Communication Equipment CO., LTD"
+    },
+    {
+      "addr":"98C845",
+      "manu":"PacketAccess"
+    },
+    {
+      "addr":"98C8B8",
+      "manu":"vivo Mobile Communication Co., Ltd."
+    },
+    {
+      "addr":"98C97C",
+      "manu":"Shenzhen iComm Semiconductor CO,LTD"
+    },
+    {
+      "addr":"98CA33",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"98CB27",
+      "manu":"Galore Networks Pvt. Ltd."
+    },
+    {
+      "addr":"98CBA4",
+      "manu":"Benchmark Electronics"
+    },
+    {
+      "addr":"98CC4D",
+      "manu":"Shenzhen mantunsci co., LTD"
+    },
+    {
+      "addr":"98CDB4",
+      "manu":"Virident Systems, Inc."
+    },
+    {
+      "addr":"98CF53",
+      "manu":"BBK EDUCATIONAL ELECTRONICS CORP.,LTD."
+    },
+    {
+      "addr":"98D293",
+      "manu":"Google, Inc."
+    },
+    {
+      "addr":"98D331",
+      "manu":"Shenzhen Bolutek Technology Co.,Ltd."
+    },
+    {
+      "addr":"98D3D2",
+      "manu":"MEKRA Lang GmbH & Co. KG"
+    },
+    {
+      "addr":"98D3E7",
+      "manu":"Netafim L"
+    },
+    {
+      "addr":"98D686",
+      "manu":"Chyi Lee industry Co., ltd."
+    },
+    {
+      "addr":"98D6BB",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"98D6F7",
+      "manu":"LG Electronics (Mobile Communications)"
+    },
+    {
+      "addr":"98D863",
+      "manu":"Shanghai High-Flying Electronics Technology Co., Ltd"
+    },
+    {
+      "addr":"98D88C",
+      "manu":"Nortel Networks"
+    },
+    {
+      "addr":"98DA92",
+      "manu":"Vuzix Corporation"
+    },
+    {
+      "addr":"98DAC4",
+      "manu":"TP-LINK TECHNOLOGIES CO.,LTD."
+    },
+    {
+      "addr":"98DCD9",
+      "manu":"UNITEC Co., Ltd."
+    },
+    {
+      "addr":"98DD5B",
+      "manu":"TAKUMI JAPAN LTD"
+    },
+    {
+      "addr":"98DDEA",
+      "manu":"Infinix mobility limited"
+    },
+    {
+      "addr":"98DED0",
+      "manu":"TP-LINK TECHNOLOGIES CO.,LTD."
+    },
+    {
+      "addr":"98DF82",
+      "manu":"Hangzhou Hikvision Digital Technology Co.,Ltd."
+    },
+    {
+      "addr":"98E0D9",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"98E165",
+      "manu":"Accutome"
+    },
+    {
+      "addr":"98E476",
+      "manu":"Zentan"
+    },
+    {
+      "addr":"98E743",
+      "manu":"Dell Inc."
+    },
+    {
+      "addr":"98E79A",
+      "manu":"Foxconn(NanJing) Communication Co.,Ltd."
+    },
+    {
+      "addr":"98E7F4",
+      "manu":"Hewlett Packard"
+    },
+    {
+      "addr":"98E7F5",
+      "manu":"HUAWEI TECHNOLOGIES CO.,LTD"
+    },
+    {
+      "addr":"98E848",
+      "manu":"Axiim"
+    },
+    {
+      "addr":"98E8FA",
+      "manu":"Nintendo Co.,Ltd"
+    },
+    {
+      "addr":"98EC65",
+      "manu":"Cosesy ApS"
+    },
+    {
+      "addr":"98ED5C",
+      "manu":"Tesla,Inc."
+    },
+    {
+      "addr":"98EECB",
+      "manu":"Wistron Infocomm (Zhongshan) Corporation"
+    },
+    {
+      "addr":"98EF9B",
+      "manu":"OHSUNG"
+    },
+    {
+      "addr":"98F058",
+      "manu":"Lynxspring, Incl."
+    },
+    {
+      "addr":"98F0AB",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"98F170",
+      "manu":"Murata Manufacturing Co., Ltd."
+    },
+    {
+      "addr":"98F199",
+      "manu":"NEC Platforms, Ltd."
+    },
+    {
+      "addr":"98F2B3",
+      "manu":"Hewlett Packard Enterprise"
+    },
+    {
+      "addr":"98F428",
+      "manu":"zte corporation"
+    },
+    {
+      "addr":"98F4AB",
+      "manu":"Espressif Inc."
+    },
+    {
+      "addr":"98F537",
+      "manu":"zte corporation"
+    },
+    {
+      "addr":"98F5A9",
+      "manu":"OHSUNG"
+    },
+    {
+      "addr":"98F621",
+      "manu":"Xiaomi Communications Co Ltd"
+    },
+    {
+      "addr":"98F781",
+      "manu":"ARRIS Group, Inc."
+    },
+    {
+      "addr":"98F7D7",
+      "manu":"ARRIS Group, Inc."
+    },
+    {
+      "addr":"98F8C1",
+      "manu":"IDT Technology Limited"
+    },
+    {
+      "addr":"98F8DB",
+      "manu":"Marini Impianti Industriali s.r.l."
+    },
+    {
+      "addr":"98F9C7",
+      "manu":"IEEE Registration Authority"
+    },
+    {
+      "addr":"98FA9B",
+      "manu":"LCFC(HeFei) Electronics Technology co., ltd"
+    },
+    {
+      "addr":"98FAA7",
+      "manu":"INNONET"
+    },
+    {
+      "addr":"98FAE3",
+      "manu":"Xiaomi Communications Co Ltd"
+    },
+    {
+      "addr":"98FB12",
+      "manu":"Grand Electronics (HK) Ltd"
+    },
+    {
+      "addr":"98FC11",
+      "manu":"Cisco-Linksys, LLC"
+    },
+    {
+      "addr":"98FD74",
+      "manu":"ACT.CO.LTD"
+    },
+    {
+      "addr":"98FDB4",
+      "manu":"Primax Electronics Ltd."
+    },
+    {
+      "addr":"98FE03",
+      "manu":"Ericsson - North America"
+    },
+    {
+      "addr":"98FE94",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"98FF6A",
+      "manu":"OTEC(Shanghai)Technology Co.,Ltd."
+    },
+    {
+      "addr":"98FFD0",
+      "manu":"Lenovo Mobile Communication Technology Ltd."
+    },
+    {
+      "addr":"9C0111",
+      "manu":"Shenzhen Newabel Electronic Co., Ltd."
+    },
+    {
+      "addr":"9C0298",
+      "manu":"Samsung Electronics Co.,Ltd"
+    },
+    {
+      "addr":"9C039E",
+      "manu":"Beijing Winchannel Software Technology Co., Ltd"
+    },
+    {
+      "addr":"9C0473",
+      "manu":"Tecmobile (International) Ltd."
+    },
+    {
+      "addr":"9C04EB",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"9C061B",
+      "manu":"Hangzhou H3C Technologies Co., Limited"
+    },
+    {
+      "addr":"9C066E",
+      "manu":"Hytera Communications Corporation Limited"
+    },
+    {
+      "addr":"9C0CDF",
+      "manu":"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD"
+    },
+    {
+      "addr":"9C0DAC",
+      "manu":"Tymphany HK Limited"
+    },
+    {
+      "addr":"9C0E4A",
+      "manu":"Shenzhen Vastking Electronic Co.,Ltd."
+    },
+    {
+      "addr":"9C13AB",
+      "manu":"Chanson Water Co., Ltd."
+    },
+    {
+      "addr":"9C1463",
+      "manu":"Zhejiang Dahua Technology Co., Ltd."
+    },
+    {
+      "addr":"9C1465",
+      "manu":"Edata Elektronik San. ve Tic. A.Ş."
+    },
+    {
+      "addr":"9C1874",
+      "manu":"Nokia Danmark A/S"
+    },
+    {
+      "addr":"9C19C2",
+      "manu":"Dongguan Liesheng Electronic Co., Ltd."
+    },
+    {
+      "addr":"9C1C12",
+      "manu":"Aruba, a Hewlett Packard Enterprise Company"
+    },
+    {
+      "addr":"9C1D36",
+      "manu":"HUAWEI TECHNOLOGIES CO.,LTD"
+    },
+    {
+      "addr":"9C1D58",
+      "manu":"Texas Instruments"
+    },
+    {
+      "addr":"9C1E95",
+      "manu":"Actiontec Electronics, Inc"
+    },
+    {
+      "addr":"9C1FDD",
+      "manu":"Accupix Inc."
+    },
+    {
+      "addr":"9C207B",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"9C216A",
+      "manu":"TP-LINK TECHNOLOGIES CO.,LTD."
+    },
+    {
+      "addr":"9C220E",
+      "manu":"TASCAN Systems GmbH"
+    },
+    {
+      "addr":"9C25BE",
+      "manu":"Wildlife Acoustics, Inc."
+    },
+    {
+      "addr":"9C2840",
+      "manu":"Discovery Technology,LTD.."
+    },
+    {
+      "addr":"9C28BF",
+      "manu":"Continental Automotive Czech Republic s.r.o."
+    },
+    {
+      "addr":"9C28EF",
+      "manu":"HUAWEI TECHNOLOGIES CO.,LTD"
+    },
+    {
+      "addr":"9C28F7",
+      "manu":"Xiaomi Communications Co Ltd"
+    },
+    {
+      "addr":"9C293F",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"9C2976",
+      "manu":"Intel Corporate"
+    },
+    {
+      "addr":"9C2A70",
+      "manu":"Hon Hai Precision Ind. Co.,Ltd."
+    },
+    {
+      "addr":"9C2A83",
+      "manu":"Samsung Electronics Co.,Ltd"
+    },
+    {
+      "addr":"9C2DCF",
+      "manu":"Shishi Tongyun Technology(Chengdu)Co.,Ltd."
+    },
+    {
+      "addr":"9C2EA1",
+      "manu":"Xiaomi Communications Co Ltd"
+    },
+    {
+      "addr":"9C2F4E",
+      "manu":"zte corporation"
+    },
+    {
+      "addr":"9C2F73",
+      "manu":"Universal Tiancheng Technology (Beijing) Co., Ltd."
+    },
+    {
+      "addr":"9C305B",
+      "manu":"Hon Hai Precision Ind. Co.,Ltd."
+    },
+    {
+      "addr":"9C3066",
+      "manu":"RWE Effizienz GmbH"
+    },
+    {
+      "addr":"9C3178",
+      "manu":"Foshan Huadian Intelligent Communications Teachnologies Co.,Ltd"
+    },
+    {
+      "addr":"9C31B6",
+      "manu":"Kulite Semiconductor Products Inc"
+    },
+    {
+      "addr":"9C31C3",
+      "manu":"BSkyB Ltd"
+    },
+    {
+      "addr":"9C32A9",
+      "manu":"SICHUAN TIANYI COMHEART TELECOMCO., LTD"
+    },
+    {
+      "addr":"9C32CE",
+      "manu":"CANON INC."
+    },
+    {
+      "addr":"9C3426",
+      "manu":"ARRIS Group, Inc."
+    },
+    {
+      "addr":"9C3583",
+      "manu":"Nipro Diagnostics, Inc"
+    },
+    {
+      "addr":"9C35EB",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"9C37F4",
+      "manu":"HUAWEI TECHNOLOGIES CO.,LTD"
+    },
+    {
+      "addr":"9C3A9A",
+      "manu":"Shenzhen Sundray Technologies Company Limited"
+    },
+    {
+      "addr":"9C3AAF",
+      "manu":"Samsung Electronics Co.,Ltd"
+    },
+    {
+      "addr":"9C3DCF",
+      "manu":"NETGEAR"
+    },
+    {
+      "addr":"9C3EAA",
+      "manu":"EnvyLogic Co.,Ltd."
+    },
+    {
+      "addr":"9C417C",
+      "manu":"Hame  Technology Co.,  Limited"
+    },
+    {
+      "addr":"9C431E",
+      "manu":"IEEE Registration Authority"
+    },
+    {
+      "addr":"9C443D",
+      "manu":"CHENGDU XUGUANG TECHNOLOGY CO, LTD"
+    },
+    {
+      "addr":"9C44A6",
+      "manu":"SwiftTest, Inc."
+    },
+    {
+      "addr":"9C4563",
+      "manu":"DIMEP Sistemas"
+    },
+    {
+      "addr":"9C497F",
+      "manu":"Integrated Device Technology (Malaysia) Sdn. Bhd."
+    },
+    {
+      "addr":"9C4A7B",
+      "manu":"Nokia Corporation"
+    },
+    {
+      "addr":"9C4CAE",
+      "manu":"Mesa Labs"
+    },
+    {
+      "addr":"9C4E20",
+      "manu":"Cisco Systems, Inc"
+    },
+    {
+      "addr":"9C4E36",
+      "manu":"Intel Corporate"
+    },
+    {
+      "addr":"9C4E8E",
+      "manu":"ALT Systems Ltd"
+    },
+    {
+      "addr":"9C4EBF",
+      "manu":"BoxCast"
+    },
+    {
+      "addr":"9C4FCF",
+      "manu":"TCT mobile ltd"
+    },
+    {
+      "addr":"9C4FDA",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"9C50EE",
+      "manu":"Cambridge Industries(Group) Co.,Ltd."
+    },
+    {
+      "addr":"9C52F8",
+      "manu":"HUAWEI TECHNOLOGIES CO.,LTD"
+    },
+    {
+      "addr":"9C53CD",
+      "manu":"ENGICAM s.r.l."
+    },
+    {
+      "addr":"9C541C",
+      "manu":"Shenzhen My-power Technology Co.,Ltd"
+    },
+    {
+      "addr":"9C54CA",
+      "manu":"Zhengzhou VCOM Science and Technology Co.,Ltd"
+    },
+    {
+      "addr":"9C54DA",
+      "manu":"SkyBell Technologies Inc."
+    },
+    {
+      "addr":"9C55B4",
+      "manu":"I.S.E. S.r.l."
+    },
+    {
+      "addr":"9C5711",
+      "manu":"Feitian Xunda(Beijing) Aeronautical Information Technology Co., Ltd."
+    },
+    {
+      "addr":"9C57AD",
+      "manu":"Cisco Systems, Inc"
+    },
+    {
+      "addr":"9C5A44",
+      "manu":"COMPAL INFORMATION (KUNSHAN) CO., LTD."
+    },
+    {
+      "addr":"9C5B96",
+      "manu":"NMR Corporation"
+    },
+    {
+      "addr":"9C5C8D",
+      "manu":"FIREMAX INDÚSTRIA E COMÉRCIO DE PRODUTOS ELETRÔNICOS  LTDA"
+    },
+    {
+      "addr":"9C5C8E",
+      "manu":"ASUSTek COMPUTER INC."
+    },
+    {
+      "addr":"9C5CF9",
+      "manu":"Sony Mobile Communications Inc"
+    },
+    {
+      "addr":"9C5D12",
+      "manu":"Extreme Networks, Inc."
+    },
+    {
+      "addr":"9C5D95",
+      "manu":"VTC Electronics Corp."
+    },
+    {
+      "addr":"9C5E73",
+      "manu":"Calibre UK LTD"
+    },
+    {
+      "addr":"9C5F5A",
+      "manu":"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD"
+    },
+    {
+      "addr":"9C611D",
+      "manu":"Panasonic Corporation of North America"
+    },
+    {
+      "addr":"9C6121",
+      "manu":"SICHUAN TIANYI COMHEART TELECOMCO.,LTD"
+    },
+    {
+      "addr":"9C62AB",
+      "manu":"Sumavision Technologies Co.,Ltd"
+    },
+    {
+      "addr":"9C63ED",
+      "manu":"zte corporation"
+    },
+    {
+      "addr":"9C645E",
+      "manu":"Harman Consumer Group"
+    },
+    {
+      "addr":"9C648B",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"9C65B0",
+      "manu":"Samsung Electronics Co.,Ltd"
+    },
+    {
+      "addr":"9C65EE",
+      "manu":"DASAN Network Solutions"
+    },
+    {
+      "addr":"9C65F9",
+      "manu":"AcSiP Technology Corp."
+    },
+    {
+      "addr":"9C6650",
+      "manu":"Glodio Technolies Co.,Ltd Tianjin Branch"
+    },
+    {
+      "addr":"9C685B",
+      "manu":"Octonion SA"
+    },
+    {
+      "addr":"9C6937",
+      "manu":"Qorvo Utrecht B.V."
+    },
+    {
+      "addr":"9C69B4",
+      "manu":"IEEE Registration Authority"
+    },
+    {
+      "addr":"9C69D1",
+      "manu":"HUAWEI TECHNOLOGIES CO.,LTD"
+    },
+    {
+      "addr":"9C6ABE",
+      "manu":"QEES ApS."
+    },
+    {
+      "addr":"9C6B72",
+      "manu":"Realme Chongqing MobileTelecommunications Corp Ltd"
+    },
+    {
+      "addr":"9C6C15",
+      "manu":"Microsoft Corporation"
+    },
+    {
+      "addr":"9C6F52",
+      "manu":"zte corporation"
+    },
+    {
+      "addr":"9C713A",
+      "manu":"HUAWEI TECHNOLOGIES CO.,LTD"
+    },
+    {
+      "addr":"9C741A",
+      "manu":"HUAWEI TECHNOLOGIES CO.,LTD"
+    },
+    {
+      "addr":"9C7514",
+      "manu":"Wildix srl"
+    },
+    {
+      "addr":"9C77AA",
+      "manu":"NADASNV"
+    },
+    {
+      "addr":"9C79AC",
+      "manu":"Suntec Software(Shanghai) Co., Ltd."
+    },
+    {
+      "addr":"9C7A03",
+      "manu":"Ciena Corporation"
+    },
+    {
+      "addr":"9C7BD2",
+      "manu":"NEOLAB Convergence"
+    },
+    {
+      "addr":"9C7BEF",
+      "manu":"Hewlett Packard"
+    },
+    {
+      "addr":"9C7DA3",
+      "manu":"HUAWEI TECHNOLOGIES CO.,LTD"
+    },
+    {
+      "addr":"9C7F57",
+      "manu":"UNIC Memory Technology Co Ltd"
+    },
+    {
+      "addr":"9C807D",
+      "manu":"SYSCABLE Korea Inc."
+    },
+    {
+      "addr":"9C80DF",
+      "manu":"Arcadyan Technology Corporation"
+    },
+    {
+      "addr":"9C8275",
+      "manu":"Yichip Microelectronics (Hangzhou) Co.,Ltd"
+    },
+    {
+      "addr":"9C83BF",
+      "manu":"PRO-VISION, Inc."
+    },
+    {
+      "addr":"9C84BF",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"9C86DA",
+      "manu":"Phoenix Geophysics Ltd."
+    },
+    {
+      "addr":"9C8888",
+      "manu":"Simac Techniek NV"
+    },
+    {
+      "addr":"9C88AD",
+      "manu":"Fiberhome Telecommunication Technologies Co.,LTD"
+    },
+    {
+      "addr":"9C8ACB",
+      "manu":"Juniper Networks"
+    },
+    {
+      "addr":"9C8BA0",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"9C8BF1",
+      "manu":"The Warehouse Limited"
+    },
+    {
+      "addr":"9C8C6E",
+      "manu":"Samsung Electronics Co.,Ltd"
+    },
+    {
+      "addr":"9C8CD8",
+      "manu":"Hewlett Packard Enterprise"
+    },
+    {
+      "addr":"9C8D1A",
+      "manu":"INTEG process group inc"
+    },
+    {
+      "addr":"9C8D7C",
+      "manu":"ALPS ELECTRIC CO., LTD."
+    },
+    {
+      "addr":"9C8DD3",
+      "manu":"Leonton Technologies"
+    },
+    {
+      "addr":"9C8E99",
+      "manu":"Hewlett Packard"
+    },
+    {
+      "addr":"9C8ECD",
+      "manu":"Amcrest Technologies"
+    },
+    {
+      "addr":"9C8EDC",
+      "manu":"Teracom Limited"
+    },
+    {
+      "addr":"9C934E",
+      "manu":"Xerox Corporation"
+    },
+    {
+      "addr":"9C93B0",
+      "manu":"Megatronix (Beijing) Technology Co., Ltd."
+    },
+    {
+      "addr":"9C93E4",
+      "manu":"Private"
+    },
+    {
+      "addr":"9C95F8",
+      "manu":"SmartDoor Systems, LLC"
+    },
+    {
+      "addr":"9C9726",
+      "manu":"Technicolor"
+    },
+    {
+      "addr":"9C9789",
+      "manu":"1MORE"
+    },
+    {
+      "addr":"9C9811",
+      "manu":"Guangzhou Sunrise Electronics Development Co., Ltd"
+    },
+    {
+      "addr":"9C99A0",
+      "manu":"Xiaomi Communications Co Ltd"
+    },
+    {
+      "addr":"9C99CD",
+      "manu":"Voippartners"
+    },
+    {
+      "addr":"9C9C1D",
+      "manu":"Starkey Labs Inc."
+    },
+    {
+      "addr":"9C9C40",
+      "manu":"SICHUAN TIANYI COMHEART TELECOMCO., LTD"
+    },
+    {
+      "addr":"9C9D5D",
+      "manu":"Raden Inc"
+    },
+    {
+      "addr":"9CA10A",
+      "manu":"SCLE SFE"
+    },
+    {
+      "addr":"9CA134",
+      "manu":"Nike, Inc."
+    },
+    {
+      "addr":"9CA3A9",
+      "manu":"Guangzhou Juan Optical and Electronical Tech Joint Stock Co., Ltd"
+    },
+    {
+      "addr":"9CA3BA",
+      "manu":"SAKURA Internet Inc."
+    },
+    {
+      "addr":"9CA513",
+      "manu":"Samsung Electronics Co.,Ltd"
+    },
+    {
+      "addr":"9CA525",
+      "manu":"Shandong USR IOT Technology Limited"
+    },
+    {
+      "addr":"9CA577",
+      "manu":"Osorno Enterprises Inc."
+    },
+    {
+      "addr":"9CA5C0",
+      "manu":"vivo Mobile Communication Co., Ltd."
+    },
+    {
+      "addr":"9CA615",
+      "manu":"TP-LINK TECHNOLOGIES CO.,LTD."
+    },
+    {
+      "addr":"9CA69D",
+      "manu":"Whaley Technology Co.Ltd"
+    },
+    {
+      "addr":"9CA9E4",
+      "manu":"zte corporation"
+    },
+    {
+      "addr":"9CAA1B",
+      "manu":"Microsoft Corporation"
+    },
+    {
+      "addr":"9CAC6D",
+      "manu":"Universal Electronics, Inc."
+    },
+    {
+      "addr":"9CAD97",
+      "manu":"Hon Hai Precision Ind. Co.,Ltd."
+    },
+    {
+      "addr":"9CADEF",
+      "manu":"Obihai Technology, Inc."
+    },
+    {
+      "addr":"9CAED3",
+      "manu":"Seiko Epson Corporation"
+    },
+    {
+      "addr":"9CAF6F",
+      "manu":"ITEL MOBILE LIMITED"
+    },
+    {
+      "addr":"9CAFCA",
+      "manu":"Cisco Systems, Inc"
+    },
+    {
+      "addr":"9CB008",
+      "manu":"Ubiquitous Computing Technology Corporation"
+    },
+    {
+      "addr":"9CB206",
+      "manu":"PROCENTEC"
+    },
+    {
+      "addr":"9CB2B2",
+      "manu":"HUAWEI TECHNOLOGIES CO.,LTD"
+    },
+    {
+      "addr":"9CB654",
+      "manu":"Hewlett Packard"
+    },
+    {
+      "addr":"9CB6D0",
+      "manu":"Rivet Networks"
+    },
+    {
+      "addr":"9CB70D",
+      "manu":"Liteon Technology Corporation"
+    },
+    {
+      "addr":"9CB793",
+      "manu":"Creatcomm Technology Inc."
+    },
+    {
+      "addr":"9CBB98",
+      "manu":"Shen Zhen RND Electronic Co.,LTD"
+    },
+    {
+      "addr":"9CBD6E",
+      "manu":"DERA Co., Ltd"
+    },
+    {
+      "addr":"9CBD9D",
+      "manu":"SkyDisk, Inc."
+    },
+    {
+      "addr":"9CBEE0",
+      "manu":"Biosoundlab Co., Ltd."
+    },
+    {
+      "addr":"9CC077",
+      "manu":"PrintCounts, LLC"
+    },
+    {
+      "addr":"9CC0D2",
+      "manu":"Conductix-Wampfler GmbH"
+    },
+    {
+      "addr":"9CC172",
+      "manu":"HUAWEI TECHNOLOGIES CO.,LTD"
+    },
+    {
+      "addr":"9CC7A6",
+      "manu":"AVM GmbH"
+    },
+    {
+      "addr":"9CC7D1",
+      "manu":"SHARP Corporation"
+    },
+    {
+      "addr":"9CC8AE",
+      "manu":"Becton, Dickinson  and Company"
+    },
+    {
+      "addr":"9CC8FC",
+      "manu":"ARRIS Group, Inc."
+    },
+    {
+      "addr":"9CC950",
+      "manu":"Baumer Holding"
+    },
+    {
+      "addr":"9CC9EB",
+      "manu":"NETGEAR"
+    },
+    {
+      "addr":"9CCAD9",
+      "manu":"Nokia Corporation"
+    },
+    {
+      "addr":"9CCC83",
+      "manu":"Juniper Networks"
+    },
+    {
+      "addr":"9CCD82",
+      "manu":"CHENG UEI PRECISION INDUSTRY CO.,LTD"
+    },
+    {
+      "addr":"9CD21E",
+      "manu":"Hon Hai Precision Ind. Co.,Ltd."
+    },
+    {
+      "addr":"9CD24B",
+      "manu":"zte corporation"
+    },
+    {
+      "addr":"9CD332",
+      "manu":"PLC Technology Ltd"
+    },
+    {
+      "addr":"9CD35B",
+      "manu":"Samsung Electronics Co.,Ltd"
+    },
+    {
+      "addr":"9CD36D",
+      "manu":"NETGEAR"
+    },
+    {
+      "addr":"9CD48B",
+      "manu":"Innolux Technology Europe BV"
+    },
+    {
+      "addr":"9CD643",
+      "manu":"D-Link International"
+    },
+    {
+      "addr":"9CD917",
+      "manu":"Motorola Mobility LLC, a Lenovo Company"
+    },
+    {
+      "addr":"9CD9CB",
+      "manu":"Lesira Manufacturing Pty Ltd"
+    },
+    {
+      "addr":"9CDA3E",
+      "manu":"Intel Corporate"
+    },
+    {
+      "addr":"9CDB07",
+      "manu":"Thum+Mahr GmbH"
+    },
+    {
+      "addr":"9CDC71",
+      "manu":"Hewlett Packard Enterprise"
+    },
+    {
+      "addr":"9CDD1F",
+      "manu":"Intelligent Steward Co.,Ltd"
+    },
+    {
+      "addr":"9CDF03",
+      "manu":"Harman/Becker Automotive Systems GmbH"
+    },
+    {
+      "addr":"9CDFB1",
+      "manu":"Shenzhen Crave Communication Co., LTD"
+    },
+    {
+      "addr":"9CE063",
+      "manu":"Samsung Electronics Co.,Ltd"
+    },
+    {
+      "addr":"9CE10E",
+      "manu":"NCTech Ltd"
+    },
+    {
+      "addr":"9CE176",
+      "manu":"Cisco Systems, Inc"
+    },
+    {
+      "addr":"9CE1D6",
+      "manu":"Junger Audio-Studiotechnik GmbH"
+    },
+    {
+      "addr":"9CE230",
+      "manu":"JULONG CO,.LTD."
+    },
+    {
+      "addr":"9CE33F",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"9CE374",
+      "manu":"HUAWEI TECHNOLOGIES CO.,LTD"
+    },
+    {
+      "addr":"9CE635",
+      "manu":"Nintendo Co., Ltd."
+    },
+    {
+      "addr":"9CE65E",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"9CE6E7",
+      "manu":"Samsung Electronics Co.,Ltd"
+    },
+    {
+      "addr":"9CE7BD",
+      "manu":"Winduskorea co., Ltd"
+    },
+    {
+      "addr":"9CE82B",
+      "manu":"vivo Mobile Communication Co., Ltd."
+    },
+    {
+      "addr":"9CE895",
+      "manu":"New H3C Technologies Co., Ltd"
+    },
+    {
+      "addr":"9CE91C",
+      "manu":"zte corporation"
+    },
+    {
+      "addr":"9CE951",
+      "manu":"Shenzhen Sang Fei Consumer Communications Ltd., Co."
+    },
+    {
+      "addr":"9CEBE8",
+      "manu":"BizLink (Kunshan) Co.,Ltd"
+    },
+    {
+      "addr":"9CEDFA",
+      "manu":"EVUlution AG"
+    },
+    {
+      "addr":"9CEFD5",
+      "manu":"Panda Wireless, Inc."
+    },
+    {
+      "addr":"9CF029",
+      "manu":"Integrated Device Technology (Malaysia) Sdn. Bhd."
+    },
+    {
+      "addr":"9CF387",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"9CF48E",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"9CF531",
+      "manu":"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD"
+    },
+    {
+      "addr":"9CF61A",
+      "manu":"UTC Fire and Security"
+    },
+    {
+      "addr":"9CF67D",
+      "manu":"Ricardo Prague, s.r.o."
+    },
+    {
+      "addr":"9CF6DD",
+      "manu":"IEEE Registration Authority"
+    },
+    {
+      "addr":"9CF8DB",
+      "manu":"shenzhen eyunmei technology co,.ltd"
+    },
+    {
+      "addr":"9CF938",
+      "manu":"AREVA NP GmbH"
+    },
+    {
+      "addr":"9CFBD5",
+      "manu":"vivo Mobile Communication Co., Ltd."
+    },
+    {
+      "addr":"9CFBF1",
+      "manu":"MESOMATIC GmbH & Co.KG"
+    },
+    {
+      "addr":"9CFC01",
+      "manu":"Apple, Inc."
+    },
+    {
+      "addr":"9CFCD1",
+      "manu":"Aetheris Technology (Shanghai) Co., Ltd."
+    },
+    {
+      "addr":"9CFCE8",
+      "manu":"Intel Corporate"
+    },
+    {
+      "addr":"9CFEA1",
+      "manu":"Fiberhome Telecommunication Technologies Co.,LTD"
+    },
+    {
+      "addr":"9CFFBE",
+      "manu":"OTSL Inc."
+    },
+    {
+      "addr":"9CFFC2",
+      "manu":"AVI Systems GmbH"
+    }
+  ]
+}

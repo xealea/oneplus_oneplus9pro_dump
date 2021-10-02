@@ -1,0 +1,18 @@
+#!/vendor/bin/sh
+# load_wlan_driver.sh
+
+ftm_mode=$(getprop ro.boot.ftm_mode)
+wlan_mod=$(lsmod | grep "^wlan")
+board_name=$(getprop ro.board.platform)
+if [[ $board_name = "kona" ]];then
+    if [[ $wlan_mod == "" && $ftm_mode != "ftm_at" && $ftm_mode != "ftm_rf" ]]
+    then
+        /vendor/bin/modprobe -a -d /vendor/lib/modules/ qca_cld3_qca6390 qca_cld3_qca6490
+    fi
+else
+    if [[ $wlan_mod == "" && $ftm_mode != "ftm_at" && $ftm_mode != "ftm_rf" ]]
+    then
+        /vendor/bin/modprobe -a -d /vendor/lib/modules/ qca_cld3_wlan
+        /vendor/bin/modprobe -a -d /vendor/lib/modules/5.4-gki qca_cld3_wlan
+    fi
+fi
