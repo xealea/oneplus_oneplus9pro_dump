@@ -1,0 +1,18 @@
+<permissions>
+    <privapp-permissions package="com.heytap.cloud">
+        <permission name="android.permission.FORCE_STOP_PACKAGES"/>
+        <permission name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+        <permission name="android.permission.READ_LOGS"/>
+        <permission name="android.permission.REAL_GET_TASKS"/>
+        <permission name="android.permission.CHANGE_CONFIGURATION"/>
+        <permission name="android.permission.BATTERY_STATS"/>
+    </privapp-permissions>
+
+    <!-- add for heytap voice assistant OSP-2466 start -->
+    <privapp-permissions package="com.heytap.speechassist">
+        <permission name="android.permission.REBOOT"/>
+        <permission name="android.permission.SHUTDOWN"/>
+    </privapp-permissions>
+    <!-- add for heytap voice assistant OSP-2466 end -->
+
+</permissions>
