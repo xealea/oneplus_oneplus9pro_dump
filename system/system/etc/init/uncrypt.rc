@@ -1,0 +1,30 @@
+service uncrypt /system/bin/uncrypt
+    class main
+    socket uncrypt stream 600 system system
+    disabled
+    oneshot
+
+service setup-bcb /system/bin/uncrypt --setup-bcb
+    class main
+    socket uncrypt stream 600 system system
+    disabled
+    oneshot
+
+service clear-bcb /system/bin/uncrypt --clear-bcb
+    class main
+    socket uncrypt stream 600 system system
+    disabled
+    oneshot
+
+# #ifdef VENDOR_EDIT
+# ajinath@SYSTEM, 2019/08/22, [OSP-2080] Recovery boot reason.
+service dump_crash_log /system/bin/uncrypt --crash
+    class main
+    disabled
+    oneshot
+
+service dump_kernel_log /system/bin/uncrypt --kernel
+    class main
+    disabled
+    oneshot
+# #endif /* VENDOR_EDIT */
