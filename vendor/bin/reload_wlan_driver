@@ -1,0 +1,10 @@
+#!/vendor/bin/sh
+board_name=$(getprop ro.board.platform)
+rmmod wlan
+if [[ $board_name = "kona" ]];then
+    /vendor/bin/modprobe -a -d /vendor/lib/modules/ qca_cld3_qca6390 qca_cld3_qca6490
+else
+    /vendor/bin/modprobe -a -d /vendor/lib/modules/ qca_cld3_wlan
+fi
+sleep 1
+ifconfig wlan0 up

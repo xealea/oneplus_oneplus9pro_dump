@@ -1,0 +1,26 @@
+#!/vendor/bin/sh
+#wifi_chain_mode=$(getprop persist.vendor.oem.wifi.chain)
+wifi_chain_mode=$1
+board_name=$(getprop ro.board.platform)
+echo $wifi_chain_mode
+if [[ $board_name = "kona" ]];then
+    if (($wifi_chain_mode == 1));
+    then
+        echo 1 >/sys/devices/platform/soc/b0000000.qcom,cnss-qca6390/wifichain_flag
+    elif (($wifi_chain_mode == 2));
+    then
+        echo 2 >/sys/devices/platform/soc/b0000000.qcom,cnss-qca6390/wifichain_flag
+    else
+        echo 0 >/sys/devices/platform/soc/b0000000.qcom,cnss-qca6390/wifichain_flag
+    fi
+else
+    if (($wifi_chain_mode == 1));
+    then
+        echo 1 >/sys/devices/platform/soc/b0000000.qcom,cnss-qca6490/wifichain_flag
+    elif (($wifi_chain_mode == 2));
+    then
+        echo 2 >/sys/devices/platform/soc/b0000000.qcom,cnss-qca6490/wifichain_flag
+    else
+        echo 0 >/sys/devices/platform/soc/b0000000.qcom,cnss-qca6490/wifichain_flag
+    fi
+fi

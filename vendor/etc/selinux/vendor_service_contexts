@@ -1,0 +1,15 @@
+#line 1 "vendor/oneplus/sepolicy/vendor/common/service_contexts"
+android.hardware.fingerprint.IGoodixFingerprintDaemon u:object_r:goodixfingerprintd_service:s0
+com.goodix.FingerprintService u:object_r:goodix_fingerprint_service:s0
+com.fingerprints.extension::IFingerprintEngineering u:object_r:hal_fingerprint_hwservice:s0
+com.fingerprints.extension::IFingerprintAuthenticator u:object_r:hal_fingerprint_hwservice:s0
+com.fingerprints.extension::IFingerprintNavigation u:object_r:hal_fingerprint_hwservice:s0
+com.fingerprints.extension::IFingerprintSensorTest u:object_r:hal_fingerprint_hwservice:s0
+com.fingerprints.extension::IFingerprintCalibration u:object_r:hal_fingerprint_hwservice:s0
+
+# ken.shen@SYSTEM, 2019/05/22. Add for param service refactor
+ParamService                    u:object_r:oem_service:s0
+#line 1 "system/sepolicy/reqd_mask/service_contexts"
+# empty service_contexts file - this file is used to generate an empty
+# non-platform service_context for devices without any service_contexts
+# customizations.

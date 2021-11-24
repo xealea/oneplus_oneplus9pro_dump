@@ -1,0 +1,26 @@
+# ----------------------------------------------
+# Test name: 	SN1X0_Selftest_RF-On
+# Description:	Turn RF ON (usefull for factory tests)
+# Revision:		1.01
+# Date:			04/04/2019
+# Tool rev:		1.12 or later
+# ----------------------------------------------
+
+version
+interval 200
+reset 1
+
+// NCI CORE RESET CMD
+send 20000100
+receive
+// NCI CORE INIT CMD
+send 2001020000
+
+// NCI SYSTEM ENABLE PROPRIETARY CMD
+send 2F0200
+
+// NCI Disable standby mode
+send 2F000100
+
+// Stop CONTINUOUS RF ON 
+send 2F3F03320000
