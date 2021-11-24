@@ -1,0 +1,15 @@
+on post-fs-data
+
+service startDiagSocket /system/bin/sh /system/bin/engineer_shell.sh startDiagSocketLog
+    user root
+    group root system oem_2901 wakelock
+    disabled
+    oneshot
+    seclabel u:r:logserver:s0
+
+service stopDiagSocket /system/bin/sh /system/bin/engineer_shell.sh stopDiagSocketLog
+    user root
+    group root system oem_2901 wakelock
+    disabled
+    oneshot
+    seclabel u:r:logserver:s0
