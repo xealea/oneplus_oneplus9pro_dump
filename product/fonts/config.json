@@ -1,0 +1,9 @@
+[
+  {"projectname":"OnePlusFont_Default",
+    "ConfigVersionCode": 1,
+    "ConfigVersionDesc": "20200727",
+    "content":[
+        {"fontid":"1","fontfile": "NA","desc":"Android Noto Sans"},
+        {"fontid":"2","fontfile": "NHGMYHOnePlusPRC-W4.ttf","desc":"OnePlus Sans Sample"}
+    ]}
+]
