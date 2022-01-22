@@ -1,0 +1,26 @@
+[+] Kernel successfully decompressed in-memory (the offsets that follow will be given relative to the decompressed binary)
+[+] Version string: Linux version 5.4.61-qgki-g680a0fd (jenkins@rd-build-78) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79), LLD 11.0.1 (/buildbot/tmp/tmp6_m7QH b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Thu Nov 11 21:37:51 CST 2021
+[+] Guessed architecture: aarch64 successfully in 0.00 seconds
+[+] Found relocations table at file offset 0x24b5168 (count=121117)
+[+] Found kernel text candidate: 0xffffffc010000000
+WARNING! bad rela offset ffffffc012a46e80
+[+] Found kallsyms_token_table at file offset 0x01d4b500
+[+] Found kallsyms_token_index at file offset 0x01d4b830
+[+] Found kallsyms_markers at file offset 0x01d4aa18
+[+] Found kallsyms_names at file offset 0x0198c174
+[+] Found kallsyms_num_syms at file offset 0x0198c08d
+[i] Negative offsets overall: 50.2511 %
+[i] Null addresses overall: 0 %
+[+] Found kallsyms_offsets at file offset 0x018ddc85
+Traceback (most recent call last):
+  File "/drone/src/vmlinux-to-elf/vmlinux_to_elf/kallsyms_finder.py", line 1149, in <module>
+    kallsyms = KallsymsFinder(obtain_raw_kernel_from_file(kernel_bin.read()), args.bit_size)
+  File "/drone/src/vmlinux-to-elf/vmlinux_to_elf/kallsyms_finder.py", line 216, in __init__
+    self.parse_symbol_table()
+  File "/drone/src/vmlinux-to-elf/vmlinux_to_elf/kallsyms_finder.py", line 1097, in parse_symbol_table
+    symbol.symbol_type = KallsymsSymbolType(symbol_name[0].upper())
+  File "/usr/lib/python3.8/enum.py", line 339, in __call__
+    return cls.__new__(cls, value)
+  File "/usr/lib/python3.8/enum.py", line 663, in __new__
+    raise ve_exc
+ValueError: '_' is not a valid KallsymsSymbolType
