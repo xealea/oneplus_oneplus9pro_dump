@@ -1,0 +1,14 @@
+service vendor.qti.hardware.display.composer /vendor/bin/hw/vendor.qti.hardware.display.composer-service
+    class hal animation
+    user system
+    group graphics drmrpc
+    capabilities SYS_NICE
+    onrestart restart surfaceflinger
+    onrestart restart vendor.oneplus.cwb-1-0
+    socket pps stream 0660 system system
+    # ifdef VENDOR_EDIT
+    # wei.wang@ASTI, 2019/10/10, [ITN-829] Improve sf performance
+    writepid /dev/cpuset/display/tasks
+    # else
+    # writepid /dev/cpuset/system-background/tasks
+    # endif /* VENDOR_EDIT */

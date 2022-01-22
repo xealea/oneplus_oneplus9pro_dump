@@ -1,0 +1,6 @@
+#!/vendor/bin/sh
+echo 3 > /sys/kernel/debug/pci-msm/base_sel
+echo 1 > /sys/kernel/debug/pci-msm/rc_sel
+echo 5 > /sys/kernel/debug/pci-msm/case
+echo 7 > /sys/kernel/debug/pci-msm/case
+echo 9 > /sys/kernel/debug/pci-msm/case
